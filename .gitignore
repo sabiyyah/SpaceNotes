@@ -1,6 +1,5 @@
 # Built application files
 /*/build/
-
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
 
@@ -27,6 +26,8 @@ local.properties
 .idea/vcs.xml
 .idea*
 *.iml
+*.iml
+.idea*
 
 # OS-specific files
 .DS_Store

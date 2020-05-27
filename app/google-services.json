@@ -15,9 +15,14 @@
       },
       "oauth_client": [
         {
-          "client_id": "893997392815-gavkmsken65uhsqelmboja3c5vgha7id.apps.googleusercontent.com",
-          "client_type": 3
-        }
+          "client_id": "893997392815-3in1ttb0p22ho0936hiekhs93qaagdoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiseassblog.jetpacknotesmvvmkotlin",
+            "certificate_hash": "b46ee8350aa435f66e734bb4b7efe1fb181ee781"
+          }
+        },
+        {
       ],
       "api_key": [
         {
