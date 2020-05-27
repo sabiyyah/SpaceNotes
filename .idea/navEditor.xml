@@ -79,24 +79,20 @@
                 <map>
                   <entry key="loginActivity">
                     <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="358" />
-                            <option name="y" value="34" />
-                          </Point>
-                        </option>
-                      </LayoutPositions>
+                      <LayoutPositions />
                     </value>
                   </entry>
                   <entry key="noteDetailView2">
                     <value>
                       <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="355" />
-                            <option name="y" value="332" />
-                          </Point>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_noteDetailView2_to_noteListView2">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
                         </option>
                       </LayoutPositions>
                     </value>
@@ -104,11 +100,19 @@
                   <entry key="noteListView2">
                     <value>
                       <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="156" />
-                            <option name="y" value="220" />
-                          </Point>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_noteListView2_to_loginActivity">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_noteListView2_to_noteDetailView2">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
                         </option>
                       </LayoutPositions>
                     </value>
