@@ -1,5 +1,6 @@
-package com.wiseassblog.jetpacknotesmvvmkotlin.note.notelist
-
+import com.wiseassblog.jetpacknotesmvvmkotlin.note.notelist.NoteListAdapter
+import com.wiseassblog.jetpacknotesmvvmkotlin.note.notelist.NoteListEvent
+import com.wiseassblog.jetpacknotesmvvmkotlin.note.notelist.NoteListViewDirections
 import android.graphics.drawable.AnimationDrawable
 import android.os.Bundle
 import android.view.LayoutInflater
