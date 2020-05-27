@@ -54,6 +54,7 @@ dependencies {
     implementation "androidx.room:room-ktx:$rootProject.room"
 
 
+    implementation 'com.google.firebase:firebase-inappmessaging-display:17.0.4'
     kapt "androidx.room:room-compiler:$rootProject.room"
 
 
