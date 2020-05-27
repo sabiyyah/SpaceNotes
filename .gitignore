@@ -51,10 +51,14 @@ local.properties
 .idea/scopes/scope_settings.xml
 
 .idea/vcs.xml
-.idea*
+
 *.iml
 
+.idea/*
 
+app/google-services.json
+
+gradle/wrapper/gradle-wrapper.properties
 
 
 # OS-specific files
