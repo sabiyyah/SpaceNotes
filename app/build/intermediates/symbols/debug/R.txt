@@ -1348,6 +1348,7 @@ int id action_mode_bar 0x7f080039
 int id action_mode_bar_stub 0x7f08003a
 int id action_mode_close_button 0x7f08003b
 <<<<<<< HEAD
+<<<<<<< HEAD
 int id action_noteDetailView2_to_noteListView2 0x7f08003c
 int id action_noteDetailView_to_noteListView2 0x7f08003d
 int id action_noteListView2_to_loginActivity 0x7f08003e
@@ -1639,6 +1640,8 @@ int id withText 0x7f08015b
 int id wrap 0x7f08015c
 int id wrap_content 0x7f08015d
 =======
+=======
+>>>>>>> dev
 int id action_noteDetailView_to_noteListView2 0x7f08003c
 int id action_noteListView_to_loginActivity 0x7f08003d
 int id action_noteListView_to_noteDetailView 0x7f08003e
@@ -1922,6 +1925,9 @@ int id wide 0x7f080153
 int id withText 0x7f080154
 int id wrap 0x7f080155
 int id wrap_content 0x7f080156
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
 int integer abc_config_activityDefaultDur 0x7f090000
 int integer abc_config_activityShortDur 0x7f090001
@@ -1982,6 +1988,7 @@ int layout abc_tooltip 0x7f0b001b
 int layout activity_login 0x7f0b001c
 int layout activity_note 0x7f0b001d
 <<<<<<< HEAD
+<<<<<<< HEAD
 int layout activity_note_demo 0x7f0b001e
 int layout custom_dialog 0x7f0b001f
 int layout design_bottom_navigation_item 0x7f0b0020
@@ -2000,6 +2007,8 @@ int layout design_navigation_menu_item 0x7f0b002c
 int layout design_text_input_password_icon 0x7f0b002d
 int layout fragment_login 0x7f0b002e
 =======
+=======
+>>>>>>> dev
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
 int layout design_bottom_sheet_dialog 0x7f0b0020
@@ -2017,6 +2026,9 @@ int layout design_navigation_menu_item 0x7f0b002b
 int layout design_text_input_password_icon 0x7f0b002c
 int layout fragment_login 0x7f0b002d
 int layout fragment_login_demo 0x7f0b002e
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
 int layout fragment_note_detail 0x7f0b002f
 int layout fragment_note_list 0x7f0b0030
@@ -2038,7 +2050,10 @@ int mipmap ic_launcher_foreground 0x7f0c0001
 int mipmap ic_launcher_round 0x7f0c0002
 int navigation nav_graph 0x7f0d0000
 <<<<<<< HEAD
+<<<<<<< HEAD
 int navigation nav_graph_demo 0x7f0d0001
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
 int string abc_action_bar_home_description 0x7f0e0000

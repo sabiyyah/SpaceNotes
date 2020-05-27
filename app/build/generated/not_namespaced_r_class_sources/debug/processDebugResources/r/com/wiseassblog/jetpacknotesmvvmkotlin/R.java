@@ -69,6 +69,10 @@ public final class R {
     public static final int action=0x7f030000;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Custom divider drawable to use for elements in the action bar.
+>>>>>>> dev
 =======
      * Custom divider drawable to use for elements in the action bar.
 >>>>>>> dev
@@ -80,6 +84,10 @@ public final class R {
     public static final int actionBarDivider=0x7f030001;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Custom item state list drawable background for action bar items.
+>>>>>>> dev
 =======
      * Custom item state list drawable background for action bar items.
 >>>>>>> dev
@@ -91,6 +99,11 @@ public final class R {
     public static final int actionBarItemBackground=0x7f030002;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Reference to a theme that should be used to inflate popups
+     * shown by widgets in the action bar.
+>>>>>>> dev
 =======
      * Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.
@@ -103,6 +116,11 @@ public final class R {
     public static final int actionBarPopupTheme=0x7f030003;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Size of the Action Bar, including the contextual
+     * bar used to present Action Modes.
+>>>>>>> dev
 =======
      * Size of the Action Bar, including the contextual
      * bar used to present Action Modes.
@@ -124,11 +142,17 @@ public final class R {
     public static final int actionBarSize=0x7f030004;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * Reference to a style for the split Action Bar. This style
      * controls the split component that holds the menu/action
      * buttons. actionBarStyle is still used for the primary
      * bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -138,6 +162,10 @@ public final class R {
     public static final int actionBarSplitStyle=0x7f030005;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Reference to a style for the Action Bar
+>>>>>>> dev
 =======
      * Reference to a style for the Action Bar
 >>>>>>> dev
@@ -156,6 +184,10 @@ public final class R {
     public static final int actionBarTabBarStyle=0x7f030007;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default style for tabs within an action bar
+>>>>>>> dev
 =======
      * Default style for tabs within an action bar
 >>>>>>> dev
@@ -174,6 +206,12 @@ public final class R {
     public static final int actionBarTabTextStyle=0x7f030009;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Reference to a theme that should be used to inflate the
+     * action bar. This will be inherited by any widget inflated
+     * into the action bar.
+>>>>>>> dev
 =======
      * Reference to a theme that should be used to inflate the
      * action bar. This will be inherited by any widget inflated
@@ -187,7 +225,10 @@ public final class R {
     public static final int actionBarTheme=0x7f03000a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar. Most of the time
      * this will be a reference to the current theme, but when
@@ -195,6 +236,9 @@ public final class R {
      * profile than the rest of the activity the difference
      * can become important. If this is set to @null the current
      * theme will be used.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -204,6 +248,10 @@ public final class R {
     public static final int actionBarWidgetTheme=0x7f03000b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default action button style.
+>>>>>>> dev
 =======
      * Default action button style.
 >>>>>>> dev
@@ -215,6 +263,10 @@ public final class R {
     public static final int actionButtonStyle=0x7f03000c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default ActionBar dropdown style.
+>>>>>>> dev
 =======
      * Default ActionBar dropdown style.
 >>>>>>> dev
@@ -226,6 +278,12 @@ public final class R {
     public static final int actionDropDownStyle=0x7f03000d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * An optional layout to be used as an action view.
+     * See {@link android.view.MenuItem#setActionView(android.view.View)}
+     * for more info.
+>>>>>>> dev
 =======
      * An optional layout to be used as an action view.
      * See {@link android.view.MenuItem#setActionView(android.view.View)}
@@ -239,6 +297,11 @@ public final class R {
     public static final int actionLayout=0x7f03000e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * TextAppearance style that will be applied to text that
+     * appears within action menu items.
+>>>>>>> dev
 =======
      * TextAppearance style that will be applied to text that
      * appears within action menu items.
@@ -251,6 +314,10 @@ public final class R {
     public static final int actionMenuTextAppearance=0x7f03000f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Color for text that appears within action menu items.
+>>>>>>> dev
 =======
      * Color for text that appears within action menu items.
 >>>>>>> dev
@@ -265,6 +332,10 @@ public final class R {
     public static final int actionMenuTextColor=0x7f030010;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background drawable to use for action mode UI
+>>>>>>> dev
 =======
      * Background drawable to use for action mode UI
 >>>>>>> dev
@@ -283,6 +354,10 @@ public final class R {
     public static final int actionModeCloseButtonStyle=0x7f030012;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the close action mode button
+>>>>>>> dev
 =======
      * Drawable to use for the close action mode button
 >>>>>>> dev
@@ -294,6 +369,10 @@ public final class R {
     public static final int actionModeCloseDrawable=0x7f030013;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Copy action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * Drawable to use for the Copy action button in Contextual Action Bar
 >>>>>>> dev
@@ -305,6 +384,10 @@ public final class R {
     public static final int actionModeCopyDrawable=0x7f030014;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Cut action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * Drawable to use for the Cut action button in Contextual Action Bar
 >>>>>>> dev
@@ -316,6 +399,10 @@ public final class R {
     public static final int actionModeCutDrawable=0x7f030015;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Find action button in WebView selection action modes
+>>>>>>> dev
 =======
      * Drawable to use for the Find action button in WebView selection action modes
 >>>>>>> dev
@@ -327,6 +414,10 @@ public final class R {
     public static final int actionModeFindDrawable=0x7f030016;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Paste action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * Drawable to use for the Paste action button in Contextual Action Bar
 >>>>>>> dev
@@ -338,6 +429,10 @@ public final class R {
     public static final int actionModePasteDrawable=0x7f030017;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * PopupWindow style to use for action modes when showing as a window overlay.
+>>>>>>> dev
 =======
      * PopupWindow style to use for action modes when showing as a window overlay.
 >>>>>>> dev
@@ -349,6 +444,10 @@ public final class R {
     public static final int actionModePopupWindowStyle=0x7f030018;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Select all action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * Drawable to use for the Select all action button in Contextual Action Bar
 >>>>>>> dev
@@ -360,6 +459,10 @@ public final class R {
     public static final int actionModeSelectAllDrawable=0x7f030019;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Share action button in WebView selection action modes
+>>>>>>> dev
 =======
      * Drawable to use for the Share action button in WebView selection action modes
 >>>>>>> dev
@@ -371,6 +474,10 @@ public final class R {
     public static final int actionModeShareDrawable=0x7f03001a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background drawable to use for action mode UI in the lower split bar
+>>>>>>> dev
 =======
      * Background drawable to use for action mode UI in the lower split bar
 >>>>>>> dev
@@ -389,6 +496,10 @@ public final class R {
     public static final int actionModeStyle=0x7f03001c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use for the Web Search action button in WebView selection action modes
+>>>>>>> dev
 =======
      * Drawable to use for the Web Search action button in WebView selection action modes
 >>>>>>> dev
@@ -414,11 +525,17 @@ public final class R {
     public static final int actionOverflowMenuStyle=0x7f03001f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.
      * See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
      * for more info.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -426,6 +543,12 @@ public final class R {
     public static final int actionProviderClass=0x7f030020;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The name of an optional View class to instantiate and use as an
+     * action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+     * for more info.
+>>>>>>> dev
 =======
      * The name of an optional View class to instantiate and use as an
      * action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
@@ -437,6 +560,10 @@ public final class R {
     public static final int actionViewClass=0x7f030021;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default ActivityChooserView style.
+>>>>>>> dev
 =======
      * Default ActivityChooserView style.
 >>>>>>> dev
@@ -467,6 +594,10 @@ public final class R {
     public static final int alertDialogStyle=0x7f030025;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Theme to use for alert dialogs spawned from this theme.
+>>>>>>> dev
 =======
      * Theme to use for alert dialogs spawned from this theme.
 >>>>>>> dev
@@ -478,6 +609,11 @@ public final class R {
     public static final int alertDialogTheme=0x7f030026;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether to automatically stack the buttons when there is not
+     * enough space to lay them out side-by-side.
+>>>>>>> dev
 =======
      * Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.
@@ -488,6 +624,10 @@ public final class R {
     public static final int allowStacking=0x7f030027;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Alpha multiplier applied to the base color.
+>>>>>>> dev
 =======
      * Alpha multiplier applied to the base color.
 >>>>>>> dev
@@ -496,6 +636,11 @@ public final class R {
     public static final int alpha=0x7f030028;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The alphabetic modifier key. This is the modifier when using a keyboard
+     * with alphabetic keys. The values should be kept in sync with KeyEvent
+>>>>>>> dev
 =======
      * The alphabetic modifier key. This is the modifier when using a keyboard
      * with alphabetic keys. The values should be kept in sync with KeyEvent
@@ -554,6 +699,10 @@ public final class R {
     public static final int argType=0x7f03002e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The length of the arrow head when formed to make an arrow
+>>>>>>> dev
 =======
      * The length of the arrow head when formed to make an arrow
 >>>>>>> dev
@@ -566,6 +715,10 @@ public final class R {
     public static final int arrowHeadLength=0x7f03002f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The length of the shaft when formed to make an arrow
+>>>>>>> dev
 =======
      * The length of the shaft when formed to make an arrow
 >>>>>>> dev
@@ -583,6 +736,10 @@ public final class R {
     public static final int attributeName=0x7f030031;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default AutoCompleteTextView style.
+>>>>>>> dev
 =======
      * Default AutoCompleteTextView style.
 >>>>>>> dev
@@ -594,6 +751,10 @@ public final class R {
     public static final int autoCompleteTextViewStyle=0x7f030032;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The maximum text size constraint to be used when auto-sizing text.
+>>>>>>> dev
 =======
      * The maximum text size constraint to be used when auto-sizing text.
 >>>>>>> dev
@@ -606,6 +767,10 @@ public final class R {
     public static final int autoSizeMaxTextSize=0x7f030033;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The minimum text size constraint to be used when auto-sizing text.
+>>>>>>> dev
 =======
      * The minimum text size constraint to be used when auto-sizing text.
 >>>>>>> dev
@@ -618,6 +783,12 @@ public final class R {
     public static final int autoSizeMinTextSize=0x7f030034;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Resource array of dimensions to be used in conjunction with
+     * <code>autoSizeTextType</code> set to <code>uniform</code>. Overrides
+     * <code>autoSizeStepGranularity</code> if set.
+>>>>>>> dev
 =======
      * Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>. Overrides
@@ -631,6 +802,12 @@ public final class R {
     public static final int autoSizePresetSizes=0x7f030035;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <code>uniform</code>. The default is 1px. Overwrites
+     * <code>autoSizePresetSizes</code> if set.
+>>>>>>> dev
 =======
      * Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>. The default is 1px. Overwrites
@@ -645,6 +822,11 @@ public final class R {
     public static final int autoSizeStepGranularity=0x7f030036;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specify the type of auto-size. Note that this feature is not supported by EditText,
+     * works only for TextView.
+>>>>>>> dev
 =======
      * Specify the type of auto-size. Note that this feature is not supported by EditText,
      * works only for TextView.
@@ -656,8 +838,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>uniform</td><td>1</td><td></td></tr>
+=======
+     * <tr><td>none</td><td>0</td><td>No auto-sizing (default).</td></tr>
+     * <tr><td>uniform</td><td>1</td><td>Uniform horizontal and vertical text size scaling to fit within the
+     * container.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>none</td><td>0</td><td>No auto-sizing (default).</td></tr>
      * <tr><td>uniform</td><td>1</td><td>Uniform horizontal and vertical text size scaling to fit within the
@@ -683,6 +871,10 @@ public final class R {
     public static final int autoTransition=0x7f030038;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a background drawable for the action bar.
+>>>>>>> dev
 =======
      * Specifies a background drawable for the action bar.
 >>>>>>> dev
@@ -694,6 +886,10 @@ public final class R {
     public static final int background=0x7f030039;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a background drawable for the bottom component of a split action bar.
+>>>>>>> dev
 =======
      * Specifies a background drawable for the bottom component of a split action bar.
 >>>>>>> dev
@@ -708,6 +904,10 @@ public final class R {
     public static final int backgroundSplit=0x7f03003a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a background drawable for a second stacked row of the action bar.
+>>>>>>> dev
 =======
      * Specifies a background drawable for a second stacked row of the action bar.
 >>>>>>> dev
@@ -722,6 +922,10 @@ public final class R {
     public static final int backgroundStacked=0x7f03003b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the background.
+>>>>>>> dev
 =======
      * Tint to apply to the background.
 >>>>>>> dev
@@ -732,6 +936,10 @@ public final class R {
     public static final int backgroundTint=0x7f03003c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the background tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the background tint.
 >>>>>>> dev
@@ -742,6 +950,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -749,6 +958,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -760,12 +971,19 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int backgroundTintMode=0x7f03003d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The length of the bars when they are parallel to each other
+>>>>>>> dev
 =======
      * The length of the bars when they are parallel to each other
 >>>>>>> dev
@@ -859,6 +1077,10 @@ public final class R {
     public static final int borderWidth=0x7f030048;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for buttons without an explicit border, often used in groups.
+>>>>>>> dev
 =======
      * Style for buttons without an explicit border, often used in groups.
 >>>>>>> dev
@@ -975,6 +1197,10 @@ public final class R {
     public static final int brightness=0x7f030057;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for buttons within button bars
+>>>>>>> dev
 =======
      * Style for buttons within button bars
 >>>>>>> dev
@@ -986,6 +1212,10 @@ public final class R {
     public static final int buttonBarButtonStyle=0x7f030058;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for the "negative" buttons within button bars
+>>>>>>> dev
 =======
      * Style for the "negative" buttons within button bars
 >>>>>>> dev
@@ -997,6 +1227,10 @@ public final class R {
     public static final int buttonBarNegativeButtonStyle=0x7f030059;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for the "neutral" buttons within button bars
+>>>>>>> dev
 =======
      * Style for the "neutral" buttons within button bars
 >>>>>>> dev
@@ -1008,6 +1242,10 @@ public final class R {
     public static final int buttonBarNeutralButtonStyle=0x7f03005a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for the "positive" buttons within button bars
+>>>>>>> dev
 =======
      * Style for the "positive" buttons within button bars
 >>>>>>> dev
@@ -1019,6 +1257,10 @@ public final class R {
     public static final int buttonBarPositiveButtonStyle=0x7f03005b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for button bars
+>>>>>>> dev
 =======
      * Style for button bars
 >>>>>>> dev
@@ -1030,6 +1272,10 @@ public final class R {
     public static final int buttonBarStyle=0x7f03005c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Compat attr to load backported drawable types
+>>>>>>> dev
 =======
      * Compat attr to load backported drawable types
 >>>>>>> dev
@@ -1047,9 +1293,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
+=======
+     * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td>Place object in the vertical center of its container, not changing its size.</td></tr>
+     * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
      * <tr><td>center_vertical</td><td>10</td><td>Place object in the vertical center of its container, not changing its size.</td></tr>
@@ -1092,6 +1344,10 @@ public final class R {
     public static final int buttonSize=0x7f030061;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Normal Button style.
+>>>>>>> dev
 =======
      * Normal Button style.
 >>>>>>> dev
@@ -1103,6 +1359,10 @@ public final class R {
     public static final int buttonStyle=0x7f030062;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Small Button style.
+>>>>>>> dev
 =======
      * Small Button style.
 >>>>>>> dev
@@ -1114,6 +1374,10 @@ public final class R {
     public static final int buttonStyleSmall=0x7f030063;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the button drawable.
+>>>>>>> dev
 =======
      * Tint to apply to the button drawable.
 >>>>>>> dev
@@ -1124,6 +1388,10 @@ public final class R {
     public static final int buttonTint=0x7f030064;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the button tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the button tint.
 >>>>>>> dev
@@ -1134,6 +1402,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -1141,6 +1410,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -1152,12 +1423,19 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int buttonTintMode=0x7f030065;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background color for CardView.
+>>>>>>> dev
 =======
      * Background color for CardView.
 >>>>>>> dev
@@ -1168,6 +1446,10 @@ public final class R {
     public static final int cardBackgroundColor=0x7f030066;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Corner radius for CardView.
+>>>>>>> dev
 =======
      * Corner radius for CardView.
 >>>>>>> dev
@@ -1180,6 +1462,10 @@ public final class R {
     public static final int cardCornerRadius=0x7f030067;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Elevation for CardView.
+>>>>>>> dev
 =======
      * Elevation for CardView.
 >>>>>>> dev
@@ -1192,6 +1478,10 @@ public final class R {
     public static final int cardElevation=0x7f030068;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Maximum Elevation for CardView.
+>>>>>>> dev
 =======
      * Maximum Elevation for CardView.
 >>>>>>> dev
@@ -1204,6 +1494,10 @@ public final class R {
     public static final int cardMaxElevation=0x7f030069;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+>>>>>>> dev
 =======
      * Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
 >>>>>>> dev
@@ -1213,6 +1507,10 @@ public final class R {
     public static final int cardPreventCornerOverlap=0x7f03006a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Add padding in API v21+ as well to have the same measurements with previous versions.
+>>>>>>> dev
 =======
      * Add padding in API v21+ as well to have the same measurements with previous versions.
 >>>>>>> dev
@@ -1234,6 +1532,10 @@ public final class R {
     public static final int chainUseRtl=0x7f03006d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Checkbox style.
+>>>>>>> dev
 =======
      * Default Checkbox style.
 >>>>>>> dev
@@ -1269,6 +1571,10 @@ public final class R {
     public static final int checkedIconVisible=0x7f030072;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default CheckedTextView style.
+>>>>>>> dev
 =======
      * Default CheckedTextView style.
 >>>>>>> dev
@@ -1436,6 +1742,10 @@ public final class R {
     public static final int clickAction=0x7f030088;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Close button icon
+>>>>>>> dev
 =======
      * Close button icon
 >>>>>>> dev
@@ -1487,6 +1797,10 @@ public final class R {
     public static final int closeIconVisible=0x7f03008f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a layout to use for the "close" item at the starting edge.
+>>>>>>> dev
 =======
      * Specifies a layout to use for the "close" item at the starting edge.
 >>>>>>> dev
@@ -1498,6 +1812,10 @@ public final class R {
     public static final int closeItemLayout=0x7f030090;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text to set as the content description for the collapse button.
+>>>>>>> dev
 =======
      * Text to set as the content description for the collapse button.
 >>>>>>> dev
@@ -1507,6 +1825,10 @@ public final class R {
     public static final int collapseContentDescription=0x7f030091;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Icon drawable to use for the collapse button.
+>>>>>>> dev
 =======
      * Icon drawable to use for the collapse button.
 >>>>>>> dev
@@ -1545,6 +1867,10 @@ public final class R {
     public static final int collapsedTitleTextAppearance=0x7f030094;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The drawing color for the bars
+>>>>>>> dev
 =======
      * The drawing color for the bars
 >>>>>>> dev
@@ -1555,6 +1881,11 @@ public final class R {
     public static final int color=0x7f030095;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Bright complement to the primary branding color. By default, this is the color applied
+     * to framework controls (via colorControlActivated).
+>>>>>>> dev
 =======
      * Bright complement to the primary branding color. By default, this is the color applied
      * to framework controls (via colorControlActivated).
@@ -1566,6 +1897,10 @@ public final class R {
     public static final int colorAccent=0x7f030096;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default color of background imagery for floating components, ex. dialogs, popups, and cards.
+>>>>>>> dev
 =======
      * Default color of background imagery for floating components, ex. dialogs, popups, and cards.
 >>>>>>> dev
@@ -1576,6 +1911,10 @@ public final class R {
     public static final int colorBackgroundFloating=0x7f030097;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The color applied to framework buttons in their normal state.
+>>>>>>> dev
 =======
      * The color applied to framework buttons in their normal state.
 >>>>>>> dev
@@ -1586,6 +1925,10 @@ public final class R {
     public static final int colorButtonNormal=0x7f030098;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The color applied to framework controls in their activated (ex. checked) state.
+>>>>>>> dev
 =======
      * The color applied to framework controls in their activated (ex. checked) state.
 >>>>>>> dev
@@ -1596,6 +1939,10 @@ public final class R {
     public static final int colorControlActivated=0x7f030099;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The color applied to framework control highlights (ex. ripples, list selectors).
+>>>>>>> dev
 =======
      * The color applied to framework control highlights (ex. ripples, list selectors).
 >>>>>>> dev
@@ -1606,6 +1953,10 @@ public final class R {
     public static final int colorControlHighlight=0x7f03009a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The color applied to framework controls in their normal state.
+>>>>>>> dev
 =======
      * The color applied to framework controls in their normal state.
 >>>>>>> dev
@@ -1616,6 +1967,11 @@ public final class R {
     public static final int colorControlNormal=0x7f03009b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Color used for error states and things that need to be drawn to
+     * the user's attention.
+>>>>>>> dev
 =======
      * Color used for error states and things that need to be drawn to
      * the user's attention.
@@ -1631,6 +1987,11 @@ public final class R {
     public static final int colorError=0x7f03009c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The primary branding color for the app. By default, this is the color applied to the
+     * action bar background.
+>>>>>>> dev
 =======
      * The primary branding color for the app. By default, this is the color applied to the
      * action bar background.
@@ -1642,6 +2003,11 @@ public final class R {
     public static final int colorPrimary=0x7f03009d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Dark variant of the primary branding color. By default, this is the color applied to
+     * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
+>>>>>>> dev
 =======
      * Dark variant of the primary branding color. By default, this is the color applied to
      * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
@@ -1676,6 +2042,10 @@ public final class R {
     public static final int colorSecondary=0x7f0300a0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The color applied to framework switch thumbs in their normal state.
+>>>>>>> dev
 =======
      * The color applied to framework switch thumbs in their normal state.
 >>>>>>> dev
@@ -1686,6 +2056,10 @@ public final class R {
     public static final int colorSwitchThumbNormal=0x7f0300a1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Commit icon shown in the query suggestion row
+>>>>>>> dev
 =======
      * Commit icon shown in the query suggestion row
 >>>>>>> dev
@@ -1737,6 +2111,10 @@ public final class R {
     public static final int content=0x7f0300a8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The content description associated with the item.
+>>>>>>> dev
 =======
      * The content description associated with the item.
 >>>>>>> dev
@@ -1746,6 +2124,11 @@ public final class R {
     public static final int contentDescription=0x7f0300a9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar. Navigation buttons and
+     * menu views are excepted. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
@@ -1759,6 +2142,11 @@ public final class R {
     public static final int contentInsetEnd=0x7f0300aa;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar when actions from a menu
+     * are present. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar when actions from a menu
      * are present. Only valid for some themes and configurations.
@@ -1772,6 +2160,11 @@ public final class R {
     public static final int contentInsetEndWithActions=0x7f0300ab;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar. Navigation buttons and
+     * menu views are excepted. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
@@ -1785,6 +2178,11 @@ public final class R {
     public static final int contentInsetLeft=0x7f0300ac;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar. Navigation buttons and
+     * menu views are excepted. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
@@ -1798,6 +2196,11 @@ public final class R {
     public static final int contentInsetRight=0x7f0300ad;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar. Navigation buttons and
+     * menu views are excepted. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
@@ -1811,6 +2214,11 @@ public final class R {
     public static final int contentInsetStart=0x7f0300ae;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum inset for content views within a bar when a navigation button
+     * is present, such as the Up button. Only valid for some themes and configurations.
+>>>>>>> dev
 =======
      * Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button. Only valid for some themes and configurations.
@@ -1824,6 +2232,10 @@ public final class R {
     public static final int contentInsetStartWithNavigation=0x7f0300af;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Inner padding between the edges of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * Inner padding between the edges of the Card and children of the CardView.
 >>>>>>> dev
@@ -1836,6 +2248,10 @@ public final class R {
     public static final int contentPadding=0x7f0300b0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Inner padding between the bottom edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * Inner padding between the bottom edge of the Card and children of the CardView.
 >>>>>>> dev
@@ -1848,6 +2264,10 @@ public final class R {
     public static final int contentPaddingBottom=0x7f0300b1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Inner padding between the left edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * Inner padding between the left edge of the Card and children of the CardView.
 >>>>>>> dev
@@ -1860,6 +2280,10 @@ public final class R {
     public static final int contentPaddingLeft=0x7f0300b2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Inner padding between the right edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * Inner padding between the right edge of the Card and children of the CardView.
 >>>>>>> dev
@@ -1872,6 +2296,10 @@ public final class R {
     public static final int contentPaddingRight=0x7f0300b3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Inner padding between the top edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * Inner padding between the top edge of the Card and children of the CardView.
 >>>>>>> dev
@@ -1894,6 +2322,10 @@ public final class R {
     public static final int contrast=0x7f0300b6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The background used by framework controls.
+>>>>>>> dev
 =======
      * The background used by framework controls.
 >>>>>>> dev
@@ -1999,6 +2431,10 @@ public final class R {
     public static final int customIntegerValue=0x7f0300c6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a layout for custom navigation. Overrides navigationMode.
+>>>>>>> dev
 =======
      * Specifies a layout for custom navigation. Overrides navigationMode.
 >>>>>>> dev
@@ -2042,6 +2478,11 @@ public final class R {
     public static final int defaultNavHost=0x7f0300cd;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default query hint used when {@code queryHint} is undefined and
+     * the search view's {@code SearchableInfo} does not provide a hint.
+>>>>>>> dev
 =======
      * Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.
@@ -2081,6 +2522,10 @@ public final class R {
     public static final int destination=0x7f0300d3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Preferred corner radius of dialogs.
+>>>>>>> dev
 =======
      * Preferred corner radius of dialogs.
 >>>>>>> dev
@@ -2093,6 +2538,10 @@ public final class R {
     public static final int dialogCornerRadius=0x7f0300d4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Preferred padding for dialog content.
+>>>>>>> dev
 =======
      * Preferred padding for dialog content.
 >>>>>>> dev
@@ -2105,6 +2554,10 @@ public final class R {
     public static final int dialogPreferredPadding=0x7f0300d5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Theme to use for dialogs spawned from this theme.
+>>>>>>> dev
 =======
      * Theme to use for dialogs spawned from this theme.
 >>>>>>> dev
@@ -2116,6 +2569,10 @@ public final class R {
     public static final int dialogTheme=0x7f0300d6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Options affecting how the action bar is displayed.
+>>>>>>> dev
 =======
      * Options affecting how the action bar is displayed.
 >>>>>>> dev
@@ -2137,6 +2594,10 @@ public final class R {
     public static final int displayOptions=0x7f0300d7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies the drawable used for item dividers.
+>>>>>>> dev
 =======
      * Specifies the drawable used for item dividers.
 >>>>>>> dev
@@ -2148,6 +2609,10 @@ public final class R {
     public static final int divider=0x7f0300d8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A drawable that may be used as a horizontal divider between visual elements.
+>>>>>>> dev
 =======
      * A drawable that may be used as a horizontal divider between visual elements.
 >>>>>>> dev
@@ -2159,6 +2624,10 @@ public final class R {
     public static final int dividerHorizontal=0x7f0300d9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Size of padding on either end of a divider.
+>>>>>>> dev
 =======
      * Size of padding on either end of a divider.
 >>>>>>> dev
@@ -2171,6 +2640,10 @@ public final class R {
     public static final int dividerPadding=0x7f0300da;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A drawable that may be used as a vertical divider between visual elements.
+>>>>>>> dev
 =======
      * A drawable that may be used as a vertical divider between visual elements.
 >>>>>>> dev
@@ -2230,6 +2703,11 @@ public final class R {
     public static final int drawableEndCompat=0x7f0300e0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Compound drawables allowing the use of vector drawable when running on older versions
+     * of the platform.
+>>>>>>> dev
 =======
      * Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.
@@ -2249,6 +2727,10 @@ public final class R {
     public static final int drawableRightCompat=0x7f0300e2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The total size of the drawable
+>>>>>>> dev
 =======
      * The total size of the drawable
 >>>>>>> dev
@@ -2268,6 +2750,10 @@ public final class R {
     public static final int drawableStartCompat=0x7f0300e4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the compound (left, top, etc.) drawables.
+>>>>>>> dev
 =======
      * Tint to apply to the compound (left, top, etc.) drawables.
 >>>>>>> dev
@@ -2278,6 +2764,10 @@ public final class R {
     public static final int drawableTint=0x7f0300e5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the compound (left, top, etc.) drawables tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the compound (left, top, etc.) drawables tint.
 >>>>>>> dev
@@ -2288,6 +2778,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -2295,6 +2786,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -2306,6 +2799,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
@@ -2326,6 +2822,10 @@ public final class R {
     public static final int drawerArrowStyle=0x7f0300e8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * ListPopupWindow compatibility
+>>>>>>> dev
 =======
      * ListPopupWindow compatibility
 >>>>>>> dev
@@ -2337,6 +2837,10 @@ public final class R {
     public static final int dropDownListViewStyle=0x7f0300e9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred item height for dropdown lists.
+>>>>>>> dev
 =======
      * The preferred item height for dropdown lists.
 >>>>>>> dev
@@ -2374,6 +2878,10 @@ public final class R {
     public static final int duration=0x7f0300eb;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * EditText background drawable.
+>>>>>>> dev
 =======
      * EditText background drawable.
 >>>>>>> dev
@@ -2385,6 +2893,10 @@ public final class R {
     public static final int editTextBackground=0x7f0300ec;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * EditText text foreground color.
+>>>>>>> dev
 =======
      * EditText text foreground color.
 >>>>>>> dev
@@ -2399,6 +2911,10 @@ public final class R {
     public static final int editTextColor=0x7f0300ed;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default EditText style.
+>>>>>>> dev
 =======
      * Default EditText style.
 >>>>>>> dev
@@ -2410,6 +2926,10 @@ public final class R {
     public static final int editTextStyle=0x7f0300ee;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * Elevation for the action bar itself
 >>>>>>> dev
@@ -2471,12 +2991,18 @@ public final class R {
     public static final int exitAnim=0x7f0300f6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The drawable to show in the button for expanding the activities overflow popup.
      * <strong>Note:</strong> Clients would like to set this drawable
      * as a clue about the action the chosen activity will perform. For
      * example, if share activity is to be chosen the drawable should
      * give a clue that sharing is to be performed.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2648,6 +3174,11 @@ public final class R {
     public static final int fastScrollVerticalTrackDrawable=0x7f03010a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Distance from the top of the TextView to the first text baseline. If set, this
+     * overrides the value set for paddingTop.
+>>>>>>> dev
 =======
      * Distance from the top of the TextView to the first text baseline. If set, this
      * overrides the value set for paddingTop.
@@ -2906,6 +3437,11 @@ public final class R {
     public static final int flow_wrapMode=0x7f030121;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The reference to the font file to be used. This should be a file in the res/font folder
+     * and should therefore have an R reference value. E.g. @font/myfont
+>>>>>>> dev
 =======
      * The reference to the font file to be used. This should be a file in the res/font folder
      * and should therefore have an R reference value. E.g. @font/myfont
@@ -2918,6 +3454,10 @@ public final class R {
     public static final int font=0x7f030122;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The attribute for the font family.
+>>>>>>> dev
 =======
      * The attribute for the font family.
 >>>>>>> dev
@@ -2927,6 +3467,10 @@ public final class R {
     public static final int fontFamily=0x7f030123;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The authority of the Font Provider to be used for the request.
+>>>>>>> dev
 =======
      * The authority of the Font Provider to be used for the request.
 >>>>>>> dev
@@ -2936,12 +3480,18 @@ public final class R {
     public static final int fontProviderAuthority=0x7f030124;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The sets of hashes for the certificates the provider should be signed with. This is
      * used to verify the identity of the provider, and is only required if the provider is not
      * part of the system image. This value may point to one list or a list of lists, where each
      * individual list represents one collection of signature hashes. Refer to your font provider's
      * documentation for these values.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2951,7 +3501,10 @@ public final class R {
     public static final int fontProviderCerts=0x7f030125;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The strategy to be used when fetching font data from a font provider in XML layouts.
      * This attribute is ignored when the resource is loaded from code, as it is equivalent to the
      * choice of API between {@link
@@ -2959,6 +3512,9 @@ public final class R {
      * {@link
      * androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
      * (async).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -2967,9 +3523,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>async</td><td>1</td><td></td></tr>
      * <tr><td>blocking</td><td>0</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>async</td><td>1</td><td>The async font fetch works as follows.
      * First, check the local cache, then if the requeted font is not cached, trigger a
      * request the font and continue with layout inflation. Once the font fetch succeeds, the
@@ -2980,12 +3539,19 @@ public final class R {
      * font from the provider and wait until it is finished.  You can change the length of
      * the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
      * default typeface will be used instead.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int fontProviderFetchStrategy=0x7f030126;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The length of the timeout during fetching.
+>>>>>>> dev
 =======
      * The length of the timeout during fetching.
 >>>>>>> dev
@@ -2997,7 +3563,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
+=======
+     * <tr><td>forever</td><td>ffffffff</td><td>A special value for the timeout. In this case, the blocking font fetching will not
+     * timeout and wait until a reply is received from the font provider.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>forever</td><td>ffffffff</td><td>A special value for the timeout. In this case, the blocking font fetching will not
      * timeout and wait until a reply is received from the font provider.</td></tr>
@@ -3007,6 +3578,11 @@ public final class R {
     public static final int fontProviderFetchTimeout=0x7f030127;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The package for the Font Provider to be used for the request. This is used to verify
+     * the identity of the provider.
+>>>>>>> dev
 =======
      * The package for the Font Provider to be used for the request. This is used to verify
      * the identity of the provider.
@@ -3017,6 +3593,11 @@ public final class R {
     public static final int fontProviderPackage=0x7f030128;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The query to be sent over to the provider. Refer to your font provider's documentation
+     * on the format of this string.
+>>>>>>> dev
 =======
      * The query to be sent over to the provider. Refer to your font provider's documentation
      * on the format of this string.
@@ -3027,6 +3608,12 @@ public final class R {
     public static final int fontProviderQuery=0x7f030129;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The style of the given font file. This will be used when the font is being loaded into
+     * the font stack and will override any style information in the font's header tables. If
+     * unspecified, the value in the font's header tables will be used.
+>>>>>>> dev
 =======
      * The style of the given font file. This will be used when the font is being loaded into
      * the font stack and will override any style information in the font's header tables. If
@@ -3045,11 +3632,17 @@ public final class R {
     public static final int fontStyle=0x7f03012a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The variation settings to be applied to the font. The string should be in the following
      * format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
      * used, or the font used does not support variation settings, this attribute needs not be
      * specified.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -3057,12 +3650,18 @@ public final class R {
     public static final int fontVariationSettings=0x7f03012b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The weight of the given font file. This will be used when the font is being loaded into
      * the font stack and will override any weight information in the font's header tables. Must
      * be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
      * common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
      * in the font's header tables will be used.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be an integer value, such as "<code>100</code>".
      */
@@ -3078,6 +3677,10 @@ public final class R {
     public static final int framePosition=0x7f03012e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The max gap between the bars when they are parallel to each other
+>>>>>>> dev
 =======
      * The max gap between the bars when they are parallel to each other
 >>>>>>> dev
@@ -3090,6 +3693,10 @@ public final class R {
     public static final int gapBetweenBars=0x7f03012f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Go button icon
+>>>>>>> dev
 =======
      * Go button icon
 >>>>>>> dev
@@ -3147,6 +3754,10 @@ public final class R {
     public static final int hideMotionSpec=0x7f030137;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Set true to hide the action bar on a vertical nested scroll of content.
+>>>>>>> dev
 =======
      * Set true to hide the action bar on a vertical nested scroll of content.
 >>>>>>> dev
@@ -3178,6 +3789,10 @@ public final class R {
     public static final int hintTextAppearance=0x7f03013c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a drawable to use for the 'home as up' indicator.
+>>>>>>> dev
 =======
      * Specifies a drawable to use for the 'home as up' indicator.
 >>>>>>> dev
@@ -3189,6 +3804,10 @@ public final class R {
     public static final int homeAsUpIndicator=0x7f03013d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a layout to use for the "home" section of the action bar.
+>>>>>>> dev
 =======
      * Specifies a layout to use for the "home" section of the action bar.
 >>>>>>> dev
@@ -3259,6 +3878,10 @@ public final class R {
     public static final int iconStartPadding=0x7f030145;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the icon.
+>>>>>>> dev
 =======
      * Tint to apply to the icon.
 >>>>>>> dev
@@ -3269,6 +3892,10 @@ public final class R {
     public static final int iconTint=0x7f030146;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the icon tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the icon tint.
 >>>>>>> dev
@@ -3279,6 +3906,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -3286,6 +3914,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the icon with those of
@@ -3297,12 +3927,20 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the icon.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int iconTintMode=0x7f030147;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The default state of the SearchView. If true, it will be iconified when not in
+     * use and expanded when clicked.
+>>>>>>> dev
 =======
      * The default state of the SearchView. If true, it will be iconified when not in
      * use and expanded when clicked.
@@ -3330,6 +3968,10 @@ public final class R {
     public static final int imageAspectRatioAdjust=0x7f03014a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * ImageButton background drawable.
+>>>>>>> dev
 =======
      * ImageButton background drawable.
 >>>>>>> dev
@@ -3341,6 +3983,10 @@ public final class R {
     public static final int imageButtonStyle=0x7f03014b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a style resource to use for an indeterminate progress spinner.
+>>>>>>> dev
 =======
      * Specifies a style resource to use for an indeterminate progress spinner.
 >>>>>>> dev
@@ -3352,6 +3998,10 @@ public final class R {
     public static final int indeterminateProgressStyle=0x7f03014c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The maximal number of items initially shown in the activity list.
+>>>>>>> dev
 =======
      * The maximal number of items initially shown in the activity list.
 >>>>>>> dev
@@ -3418,6 +4068,11 @@ public final class R {
     public static final int itemIconTint=0x7f030155;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies padding that should be applied to the left and right sides of
+     * system-provided items in the bar.
+>>>>>>> dev
 =======
      * Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.
@@ -3479,12 +4134,18 @@ public final class R {
     public static final int keyPositionType=0x7f03015c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.
      * Child views can refer to these keylines for alignment using
      * layout_keyline="index" where index is a 0-based index into
      * this array.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -3508,6 +4169,11 @@ public final class R {
     public static final int labelVisibilityMode=0x7f03015e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Distance from the bottom of the TextView to the last text baseline. If set, this
+     * overrides the value set for paddingBottom.
+>>>>>>> dev
 =======
      * Distance from the bottom of the TextView to the last text baseline. If set, this
      * overrides the value set for paddingBottom.
@@ -3526,6 +4192,10 @@ public final class R {
     public static final int launchSingleTop=0x7f030160;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The layout to use for the search view.
+>>>>>>> dev
 =======
      * The layout to use for the search view.
 >>>>>>> dev
@@ -3544,7 +4214,10 @@ public final class R {
     public static final int layoutDescription=0x7f030162;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * Class name of the Layout Manager to be used.
      * <p/>
      * The class must ext androidx.recyclerview.widget.RecyclerViewView$LayoutManager
@@ -3554,6 +4227,9 @@ public final class R {
      * If the name starts with a '.', application package is prefixed.
      * Else, if the name contains a '.', the classname is assumed to be a full class name.
      * Else, the recycler view package naandroidx.appcompat.widgetdget) is prefixed.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -3561,6 +4237,10 @@ public final class R {
     public static final int layoutManager=0x7f030163;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The id of an anchor view that this view should position relative to.
+>>>>>>> dev
 =======
      * The id of an anchor view that this view should position relative to.
 >>>>>>> dev
@@ -3572,6 +4252,11 @@ public final class R {
     public static final int layout_anchor=0x7f030164;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * within its parent's bounds.
+>>>>>>> dev
 =======
      * Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.
@@ -3582,6 +4267,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<<<<<<< HEAD
 <<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
@@ -3598,6 +4284,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
      * <tr><td>center</td><td>11</td><td>Place the object in the center of its container in both the vertical and horizontal axis, not changing its size.</td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td>Place object in the horizontal center of its container, not changing its size.</td></tr>
@@ -3618,12 +4306,20 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Push object to the right of its container, not changing its size.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Push object to the beginning of its container, not changing its size.</td></tr>
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int layout_anchorGravity=0x7f030165;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The class name of a Behavior class defining special runtime behavior
+     * for this child view.
+>>>>>>> dev
 =======
      * The class name of a Behavior class defining special runtime behavior
      * for this child view.
@@ -4065,6 +4761,10 @@ public final class R {
     public static final int layout_constraintWidth_percent=0x7f030192;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies how this view dodges the inset edges of the CoordinatorLayout.
+>>>>>>> dev
 =======
      * Specifies how this view dodges the inset edges of the CoordinatorLayout.
 >>>>>>> dev
@@ -4075,6 +4775,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>all</td><td>77</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>end</td><td>800005</td><td></td></tr>
@@ -4084,6 +4785,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>all</td><td>77</td><td>Dodge all the inset edges.</td></tr>
      * <tr><td>bottom</td><td>50</td><td>Dodge the bottom inset edge.</td></tr>
      * <tr><td>end</td><td>800005</td><td>Dodge the end inset edge.</td></tr>
@@ -4092,6 +4795,9 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Dodge the right inset edge.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Dodge the start inset edge.</td></tr>
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
@@ -4162,6 +4868,11 @@ public final class R {
     public static final int layout_goneMarginTop=0x7f03019b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies how this view insets the CoordinatorLayout and make some other views
+     * dodge it.
+>>>>>>> dev
 =======
      * Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.
@@ -4173,6 +4884,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
@@ -4181,6 +4893,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>bottom</td><td>50</td><td>Inset the bottom edge.</td></tr>
      * <tr><td>end</td><td>800005</td><td>Inset the end edge.</td></tr>
      * <tr><td>left</td><td>3</td><td>Inset the left edge.</td></tr>
@@ -4188,12 +4902,21 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Inset the right edge.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Inset the start edge.</td></tr>
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int layout_insetEdge=0x7f03019c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The index of a keyline this view should position relative to.
+     * android:layout_gravity will affect how the view aligns to the
+     * specified keyline.
+>>>>>>> dev
 =======
      * The index of a keyline this view should position relative to.
      * android:layout_gravity will affect how the view aligns to the
@@ -4213,7 +4936,11 @@ public final class R {
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>direct</td><td>1</td><td></td></tr>
+=======
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
 >>>>>>> dev
@@ -4256,6 +4983,11 @@ public final class R {
     public static final int liftOnScroll=0x7f0301a1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Explicit height between lines of text. If set, this will override the values set
+     * for lineSpacingExtra and lineSpacingMultiplier.
+>>>>>>> dev
 =======
      * Explicit height between lines of text. If set, this will override the values set
      * for lineSpacingExtra and lineSpacingMultiplier.
@@ -4277,6 +5009,10 @@ public final class R {
     public static final int lineSpacing=0x7f0301a3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable used as a background for selected list items.
+>>>>>>> dev
 =======
      * Drawable used as a background for selected list items.
 >>>>>>> dev
@@ -4288,6 +5024,10 @@ public final class R {
     public static final int listChoiceBackgroundIndicator=0x7f0301a4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Animated Drawable to use for single choice indicators.
+>>>>>>> dev
 =======
      * Animated Drawable to use for single choice indicators.
 >>>>>>> dev
@@ -4299,6 +5039,10 @@ public final class R {
     public static final int listChoiceIndicatorMultipleAnimated=0x7f0301a5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Animated Drawable to use for multiple choice indicators.
+>>>>>>> dev
 =======
      * Animated Drawable to use for multiple choice indicators.
 >>>>>>> dev
@@ -4310,6 +5054,10 @@ public final class R {
     public static final int listChoiceIndicatorSingleAnimated=0x7f0301a6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The list divider used in alert dialogs.
+>>>>>>> dev
 =======
      * The list divider used in alert dialogs.
 >>>>>>> dev
@@ -4335,6 +5083,10 @@ public final class R {
     public static final int listLayout=0x7f0301a9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default menu-style ListView style.
+>>>>>>> dev
 =======
      * Default menu-style ListView style.
 >>>>>>> dev
@@ -4353,6 +5105,10 @@ public final class R {
     public static final int listPopupWindowStyle=0x7f0301ab;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred list item height.
+>>>>>>> dev
 =======
      * The preferred list item height.
 >>>>>>> dev
@@ -4365,6 +5121,10 @@ public final class R {
     public static final int listPreferredItemHeight=0x7f0301ac;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A larger, more robust list item height.
+>>>>>>> dev
 =======
      * A larger, more robust list item height.
 >>>>>>> dev
@@ -4377,6 +5137,10 @@ public final class R {
     public static final int listPreferredItemHeightLarge=0x7f0301ad;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A smaller, sleeker list item height.
+>>>>>>> dev
 =======
      * A smaller, sleeker list item height.
 >>>>>>> dev
@@ -4389,6 +5153,10 @@ public final class R {
     public static final int listPreferredItemHeightSmall=0x7f0301ae;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred padding along the end edge of list items.
+>>>>>>> dev
 =======
      * The preferred padding along the end edge of list items.
 >>>>>>> dev
@@ -4401,6 +5169,10 @@ public final class R {
     public static final int listPreferredItemPaddingEnd=0x7f0301af;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred padding along the left edge of list items.
+>>>>>>> dev
 =======
      * The preferred padding along the left edge of list items.
 >>>>>>> dev
@@ -4413,6 +5185,10 @@ public final class R {
     public static final int listPreferredItemPaddingLeft=0x7f0301b0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred padding along the right edge of list items.
+>>>>>>> dev
 =======
      * The preferred padding along the right edge of list items.
 >>>>>>> dev
@@ -4425,6 +5201,10 @@ public final class R {
     public static final int listPreferredItemPaddingRight=0x7f0301b1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred padding along the start edge of list items.
+>>>>>>> dev
 =======
      * The preferred padding along the start edge of list items.
 >>>>>>> dev
@@ -4437,6 +5217,10 @@ public final class R {
     public static final int listPreferredItemPaddingStart=0x7f0301b2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies the drawable used for the application logo.
+>>>>>>> dev
 =======
      * Specifies the drawable used for the application logo.
 >>>>>>> dev
@@ -4448,6 +5232,11 @@ public final class R {
     public static final int logo=0x7f0301b3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A content description string to describe the appearance of the
+     * associated logo image.
+>>>>>>> dev
 =======
      * A content description string to describe the appearance of the
      * associated logo image.
@@ -4520,6 +5309,12 @@ public final class R {
     public static final int maxWidth=0x7f0301bd;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * When set to true, all children with a weight will be considered having
+     * the minimum size of the largest child. If false, all children are
+     * measured normally.
+>>>>>>> dev
 =======
      * When set to true, all children with a weight will be considered having
      * the minimum size of the largest child. If false, all children are
@@ -4531,6 +5326,10 @@ public final class R {
     public static final int measureWithLargestChild=0x7f0301be;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Menu resource to inflate to be shown in the toolbar
+>>>>>>> dev
 =======
      * Menu resource to inflate to be shown in the toolbar
 >>>>>>> dev
@@ -4721,6 +5520,11 @@ public final class R {
     public static final int navGraph=0x7f0301d2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text to set as the content description for the navigation button
+     * located at the start of the toolbar.
+>>>>>>> dev
 =======
      * Text to set as the content description for the navigation button
      * located at the start of the toolbar.
@@ -4731,6 +5535,11 @@ public final class R {
     public static final int navigationContentDescription=0x7f0301d3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Icon drawable to use for the navigation button located at
+     * the start of the toolbar.
+>>>>>>> dev
 =======
      * Icon drawable to use for the navigation button located at
      * the start of the toolbar.
@@ -4743,6 +5552,10 @@ public final class R {
     public static final int navigationIcon=0x7f0301d4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The type of navigation to use.
+>>>>>>> dev
 =======
      * The type of navigation to use.
 >>>>>>> dev
@@ -4753,9 +5566,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>listMode</td><td>1</td><td></td></tr>
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
+=======
+     * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
+     * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
+     * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
      * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
@@ -4778,6 +5597,11 @@ public final class R {
     public static final int nullable=0x7f0301d7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The numeric modifier key. This is the modifier when using a numeric (e.g., 12-key)
+     * keyboard. The values should be kept in sync with KeyEvent
+>>>>>>> dev
 =======
      * The numeric modifier key. This is the modifier when using a numeric (e.g., 12-key)
      * keyboard. The values should be kept in sync with KeyEvent
@@ -4840,6 +5664,10 @@ public final class R {
     public static final int onTouchUp=0x7f0301de;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether the popup window should overlap its anchor view.
+>>>>>>> dev
 =======
      * Whether the popup window should overlap its anchor view.
 >>>>>>> dev
@@ -4854,6 +5682,10 @@ public final class R {
     public static final int overlay=0x7f0301e0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Bottom padding to use when no buttons are present.
+>>>>>>> dev
 =======
      * Bottom padding to use when no buttons are present.
 >>>>>>> dev
@@ -4866,6 +5698,10 @@ public final class R {
     public static final int paddingBottomNoButtons=0x7f0301e1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.
+>>>>>>> dev
 =======
      * Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.
 >>>>>>> dev
@@ -4878,6 +5714,10 @@ public final class R {
     public static final int paddingEnd=0x7f0301e2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.
+>>>>>>> dev
 =======
      * Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.
 >>>>>>> dev
@@ -4890,6 +5730,10 @@ public final class R {
     public static final int paddingStart=0x7f0301e3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Top padding to use when no title is present.
+>>>>>>> dev
 =======
      * Top padding to use when no title is present.
 >>>>>>> dev
@@ -4902,6 +5746,10 @@ public final class R {
     public static final int paddingTopNoTitle=0x7f0301e4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The background of a panel when it is inset from the left and right edges of the screen.
+>>>>>>> dev
 =======
      * The background of a panel when it is inset from the left and right edges of the screen.
 >>>>>>> dev
@@ -4913,6 +5761,10 @@ public final class R {
     public static final int panelBackground=0x7f0301e5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Panel Menu style.
+>>>>>>> dev
 =======
      * Default Panel Menu style.
 >>>>>>> dev
@@ -4924,6 +5776,10 @@ public final class R {
     public static final int panelMenuListTheme=0x7f0301e6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Panel Menu width.
+>>>>>>> dev
 =======
      * Default Panel Menu width.
 >>>>>>> dev
@@ -5069,6 +5925,10 @@ public final class R {
     public static final int popUpToInclusive=0x7f0301fa;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default PopupMenu style.
+>>>>>>> dev
 =======
      * Default PopupMenu style.
 >>>>>>> dev
@@ -5080,6 +5940,11 @@ public final class R {
     public static final int popupMenuStyle=0x7f0301fb;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Reference to a theme that should be used to inflate popups
+     * shown by widgets in the action bar.
+>>>>>>> dev
 =======
      * Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.
@@ -5092,6 +5957,10 @@ public final class R {
     public static final int popupTheme=0x7f0301fc;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default PopupWindow style.
+>>>>>>> dev
 =======
      * Default PopupWindow style.
 >>>>>>> dev
@@ -5103,6 +5972,10 @@ public final class R {
     public static final int popupWindowStyle=0x7f0301fd;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether space should be reserved in layout when an icon is missing.
+>>>>>>> dev
 =======
      * Whether space should be reserved in layout when an icon is missing.
 >>>>>>> dev
@@ -5124,6 +5997,10 @@ public final class R {
     public static final int progress=0x7f030200;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies the horizontal padding on either end for an embedded progress bar.
+>>>>>>> dev
 =======
      * Specifies the horizontal padding on either end for an embedded progress bar.
 >>>>>>> dev
@@ -5136,6 +6013,10 @@ public final class R {
     public static final int progressBarPadding=0x7f030201;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a style resource to use for an embedded progress bar.
+>>>>>>> dev
 =======
      * Specifies a style resource to use for an embedded progress bar.
 >>>>>>> dev
@@ -5147,6 +6028,10 @@ public final class R {
     public static final int progressBarStyle=0x7f030202;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background for the section containing the search query
+>>>>>>> dev
 =======
      * Background for the section containing the search query
 >>>>>>> dev
@@ -5158,6 +6043,10 @@ public final class R {
     public static final int queryBackground=0x7f030203;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * An optional user-defined query hint string to be displayed in the empty query field.
+>>>>>>> dev
 =======
      * An optional user-defined query hint string to be displayed in the empty query field.
 >>>>>>> dev
@@ -5167,6 +6056,10 @@ public final class R {
     public static final int queryHint=0x7f030204;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default RadioButton style.
+>>>>>>> dev
 =======
      * Default RadioButton style.
 >>>>>>> dev
@@ -5178,6 +6071,10 @@ public final class R {
     public static final int radioButtonStyle=0x7f030205;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default RatingBar style.
+>>>>>>> dev
 =======
      * Default RatingBar style.
 >>>>>>> dev
@@ -5189,6 +6086,10 @@ public final class R {
     public static final int ratingBarStyle=0x7f030206;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Indicator RatingBar style.
+>>>>>>> dev
 =======
      * Indicator RatingBar style.
 >>>>>>> dev
@@ -5200,6 +6101,10 @@ public final class R {
     public static final int ratingBarStyleIndicator=0x7f030207;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Small indicator RatingBar style.
+>>>>>>> dev
 =======
      * Small indicator RatingBar style.
 >>>>>>> dev
@@ -5308,6 +6213,10 @@ public final class R {
     public static final int scrimVisibleHeightTrigger=0x7f030216;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Search icon displayed as a text field hint
+>>>>>>> dev
 =======
      * Search icon displayed as a text field hint
 >>>>>>> dev
@@ -5319,6 +6228,10 @@ public final class R {
     public static final int searchHintIcon=0x7f030217;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Search icon
+>>>>>>> dev
 =======
      * Search icon
 >>>>>>> dev
@@ -5330,6 +6243,10 @@ public final class R {
     public static final int searchIcon=0x7f030218;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Style for the search query widget.
+>>>>>>> dev
 =======
      * Style for the search query widget.
 >>>>>>> dev
@@ -5341,6 +6258,10 @@ public final class R {
     public static final int searchViewStyle=0x7f030219;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default SeekBar style.
+>>>>>>> dev
 =======
      * Default SeekBar style.
 >>>>>>> dev
@@ -5352,6 +6273,12 @@ public final class R {
     public static final int seekBarStyle=0x7f03021a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A style that may be applied to buttons or other selectable items
+     * that should react to pressed and focus states, but that do not
+     * have a clear visual border along the edges.
+>>>>>>> dev
 =======
      * A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
@@ -5365,6 +6292,10 @@ public final class R {
     public static final int selectableItemBackground=0x7f03021b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background drawable for borderless standalone items that need focus/pressed states.
+>>>>>>> dev
 =======
      * Background drawable for borderless standalone items that need focus/pressed states.
 >>>>>>> dev
@@ -5376,6 +6307,10 @@ public final class R {
     public static final int selectableItemBackgroundBorderless=0x7f03021c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * How this item should display in the Action Bar, if present.
+>>>>>>> dev
 =======
      * How this item should display in the Action Bar, if present.
 >>>>>>> dev
@@ -5386,12 +6321,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>always</td><td>2</td><td></td></tr>
      * <tr><td>collapseActionView</td><td>8</td><td></td></tr>
      * <tr><td>ifRoom</td><td>1</td><td></td></tr>
      * <tr><td>never</td><td>0</td><td></td></tr>
      * <tr><td>withText</td><td>4</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>always</td><td>2</td><td>Always show this item in an actionbar, even if it would override
      * the system's limits of how much stuff to put there. This may make
      * your action bar look bad on some screens. In most cases you should
@@ -5406,12 +6344,19 @@ public final class R {
      * Mutually exclusive with "ifRoom" and "always".</td></tr>
      * <tr><td>withText</td><td>4</td><td>When this item is shown as an action in the action bar, show a text
      * label with it even if it has an icon representation.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int showAsAction=0x7f03021d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Setting for which dividers to show.
+>>>>>>> dev
 =======
      * Setting for which dividers to show.
 >>>>>>> dev
@@ -5442,6 +6387,10 @@ public final class R {
     public static final int showPaths=0x7f030220;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether to draw on/off text.
+>>>>>>> dev
 =======
      * Whether to draw on/off text.
 >>>>>>> dev
@@ -5495,6 +6444,10 @@ public final class R {
     public static final int spanCount=0x7f030229;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether bars should rotate or not during transition
+>>>>>>> dev
 =======
      * Whether bars should rotate or not during transition
 >>>>>>> dev
@@ -5504,6 +6457,10 @@ public final class R {
     public static final int spinBars=0x7f03022a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Spinner style.
+>>>>>>> dev
 =======
      * Default Spinner style.
 >>>>>>> dev
@@ -5515,6 +6472,10 @@ public final class R {
     public static final int spinnerDropDownItemStyle=0x7f03022b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Spinner style.
+>>>>>>> dev
 =======
      * Default Spinner style.
 >>>>>>> dev
@@ -5526,6 +6487,10 @@ public final class R {
     public static final int spinnerStyle=0x7f03022c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Whether to split the track and leave a gap for the thumb drawable.
+>>>>>>> dev
 =======
      * Whether to split the track and leave a gap for the thumb drawable.
 >>>>>>> dev
@@ -5535,6 +6500,11 @@ public final class R {
     public static final int splitTrack=0x7f03022d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Sets a drawable as the content of this ImageView. Allows the use of vector drawable
+     * when running on older versions of the platform.
+>>>>>>> dev
 =======
      * Sets a drawable as the content of this ImageView. Allows the use of vector drawable
      * when running on older versions of the platform.
@@ -5563,6 +6533,10 @@ public final class R {
     public static final int startDestination=0x7f030231;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * State identifier indicating the popup will be above the anchor.
+>>>>>>> dev
 =======
      * State identifier indicating the popup will be above the anchor.
 >>>>>>> dev
@@ -5592,6 +6566,10 @@ public final class R {
     public static final int state_lifted=0x7f030236;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to display behind the status bar when the view is set to draw behind it.
+>>>>>>> dev
 =======
      * Drawable to display behind the status bar when the view is set to draw behind it.
 >>>>>>> dev
@@ -5626,6 +6604,10 @@ public final class R {
     public static final int strokeWidth=0x7f03023a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable for the arrow icon indicating a particular item is a submenu.
+>>>>>>> dev
 =======
      * Drawable for the arrow icon indicating a particular item is a submenu.
 >>>>>>> dev
@@ -5637,6 +6619,10 @@ public final class R {
     public static final int subMenuArrow=0x7f03023b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background for the section containing the action (e.g. voice search)
+>>>>>>> dev
 =======
      * Background for the section containing the action (e.g. voice search)
 >>>>>>> dev
@@ -5648,6 +6634,10 @@ public final class R {
     public static final int submitBackground=0x7f03023c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies subtitle text used for navigationMode="normal"
+>>>>>>> dev
 =======
      * Specifies subtitle text used for navigationMode="normal"
 >>>>>>> dev
@@ -5664,6 +6654,10 @@ public final class R {
     public static final int subtitleTextAppearance=0x7f03023e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A color to apply to the subtitle string.
+>>>>>>> dev
 =======
      * A color to apply to the subtitle string.
 >>>>>>> dev
@@ -5674,6 +6668,10 @@ public final class R {
     public static final int subtitleTextColor=0x7f03023f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a style to use for subtitle text.
+>>>>>>> dev
 =======
      * Specifies a style to use for subtitle text.
 >>>>>>> dev
@@ -5685,6 +6683,10 @@ public final class R {
     public static final int subtitleTextStyle=0x7f030240;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Layout for query suggestion rows
+>>>>>>> dev
 =======
      * Layout for query suggestion rows
 >>>>>>> dev
@@ -5696,6 +6698,10 @@ public final class R {
     public static final int suggestionRowLayout=0x7f030241;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum width for the switch component
+>>>>>>> dev
 =======
      * Minimum width for the switch component
 >>>>>>> dev
@@ -5708,6 +6714,10 @@ public final class R {
     public static final int switchMinWidth=0x7f030242;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Minimum space between the switch and caption text
+>>>>>>> dev
 =======
      * Minimum space between the switch and caption text
 >>>>>>> dev
@@ -5720,6 +6730,10 @@ public final class R {
     public static final int switchPadding=0x7f030243;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default style for the Switch widget.
+>>>>>>> dev
 =======
      * Default style for the Switch widget.
 >>>>>>> dev
@@ -5731,6 +6745,10 @@ public final class R {
     public static final int switchStyle=0x7f030244;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * TextAppearance style for text displayed on the switch thumb.
+>>>>>>> dev
 =======
      * TextAppearance style for text displayed on the switch thumb.
 >>>>>>> dev
@@ -5981,6 +6999,10 @@ public final class R {
     public static final int telltales_velocityMode=0x7f030264;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Present the text in ALL CAPS. This may use a small-caps form when available.
+>>>>>>> dev
 =======
      * Present the text in ALL CAPS. This may use a small-caps form when available.
 >>>>>>> dev
@@ -6064,6 +7086,10 @@ public final class R {
     public static final int textAppearanceHeadline6=0x7f03026f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color, typeface, size, and style for the text inside of a popup menu.
+>>>>>>> dev
 =======
      * Text color, typeface, size, and style for the text inside of a popup menu.
 >>>>>>> dev
@@ -6075,6 +7101,10 @@ public final class R {
     public static final int textAppearanceLargePopupMenu=0x7f030270;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred TextAppearance for the primary text of list items.
+>>>>>>> dev
 =======
      * The preferred TextAppearance for the primary text of list items.
 >>>>>>> dev
@@ -6086,6 +7116,10 @@ public final class R {
     public static final int textAppearanceListItem=0x7f030271;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred TextAppearance for the secondary text of list items.
+>>>>>>> dev
 =======
      * The preferred TextAppearance for the secondary text of list items.
 >>>>>>> dev
@@ -6097,6 +7131,10 @@ public final class R {
     public static final int textAppearanceListItemSecondary=0x7f030272;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The preferred TextAppearance for the primary text of small list items.
+>>>>>>> dev
 =======
      * The preferred TextAppearance for the primary text of small list items.
 >>>>>>> dev
@@ -6115,6 +7153,10 @@ public final class R {
     public static final int textAppearanceOverline=0x7f030274;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color, typeface, size, and style for header text inside of a popup menu.
+>>>>>>> dev
 =======
      * Text color, typeface, size, and style for header text inside of a popup menu.
 >>>>>>> dev
@@ -6126,6 +7168,10 @@ public final class R {
     public static final int textAppearancePopupMenuHeader=0x7f030275;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color.
+>>>>>>> dev
 =======
      * Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color.
 >>>>>>> dev
@@ -6137,6 +7183,10 @@ public final class R {
     public static final int textAppearanceSearchResultSubtitle=0x7f030276;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color.
+>>>>>>> dev
 =======
      * Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color.
 >>>>>>> dev
@@ -6148,6 +7198,10 @@ public final class R {
     public static final int textAppearanceSearchResultTitle=0x7f030277;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color, typeface, size, and style for small text inside of a popup menu.
+>>>>>>> dev
 =======
      * Text color, typeface, size, and style for small text inside of a popup menu.
 >>>>>>> dev
@@ -6173,6 +7227,10 @@ public final class R {
     public static final int textAppearanceSubtitle2=0x7f03027a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Color of list item text in alert dialogs.
+>>>>>>> dev
 =======
      * Color of list item text in alert dialogs.
 >>>>>>> dev
@@ -6187,6 +7245,10 @@ public final class R {
     public static final int textColorAlertDialogListItem=0x7f03027b;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Text color for urls in search suggestions, used by things like global search
+>>>>>>> dev
 =======
      * Text color for urls in search suggestions, used by things like global search
 >>>>>>> dev
@@ -6216,12 +7278,18 @@ public final class R {
     public static final int textInputStyle=0x7f03027e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN". This attribute only takes effect on API 21 and above.
      * Before API 24, only the first language tag is used. Starting from API 24,
      * the string will be converted into a {@link android.os.LocaleList} and then used by
      * {@link android.widget.TextView}
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
@@ -6237,6 +7305,10 @@ public final class R {
     public static final int textStartPadding=0x7f030280;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Deprecated.
+>>>>>>> dev
 =======
      * Deprecated.
 >>>>>>> dev
@@ -6248,6 +7320,10 @@ public final class R {
     public static final int theme=0x7f030281;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The thickness (stroke size) for the bar paint
+>>>>>>> dev
 =======
      * The thickness (stroke size) for the bar paint
 >>>>>>> dev
@@ -6260,6 +7336,10 @@ public final class R {
     public static final int thickness=0x7f030282;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Amount of padding on either side of text within the switch thumb.
+>>>>>>> dev
 =======
      * Amount of padding on either side of text within the switch thumb.
 >>>>>>> dev
@@ -6272,6 +7352,10 @@ public final class R {
     public static final int thumbTextPadding=0x7f030283;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the thumb drawable.
+>>>>>>> dev
 =======
      * Tint to apply to the thumb drawable.
 >>>>>>> dev
@@ -6282,6 +7366,10 @@ public final class R {
     public static final int thumbTint=0x7f030284;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the thumb tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the thumb tint.
 >>>>>>> dev
@@ -6292,6 +7380,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -6299,6 +7388,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -6310,12 +7401,19 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int thumbTintMode=0x7f030285;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable displayed at each progress position on a seekbar.
+>>>>>>> dev
 =======
      * Drawable displayed at each progress position on a seekbar.
 >>>>>>> dev
@@ -6327,6 +7425,10 @@ public final class R {
     public static final int tickMark=0x7f030286;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the tick mark drawable.
+>>>>>>> dev
 =======
      * Tint to apply to the tick mark drawable.
 >>>>>>> dev
@@ -6337,6 +7439,10 @@ public final class R {
     public static final int tickMarkTint=0x7f030287;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the tick mark tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the tick mark tint.
 >>>>>>> dev
@@ -6347,6 +7453,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -6354,6 +7461,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -6365,12 +7474,19 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
     public static final int tickMarkTintMode=0x7f030288;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the image source.
+>>>>>>> dev
 =======
      * Tint to apply to the image source.
 >>>>>>> dev
@@ -6381,6 +7497,10 @@ public final class R {
     public static final int tint=0x7f030289;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the image source tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the image source tint.
 >>>>>>> dev
@@ -6391,6 +7511,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -6398,6 +7519,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -6409,6 +7532,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
@@ -6425,6 +7551,11 @@ public final class R {
     public static final int titleEnabled=0x7f03028c;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies extra space on the left, start, right and end sides
+     * of the toolbar's title. Margin values should be positive.
+>>>>>>> dev
 =======
      * Specifies extra space on the left, start, right and end sides
      * of the toolbar's title. Margin values should be positive.
@@ -6438,6 +7569,12 @@ public final class R {
     public static final int titleMargin=0x7f03028d;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies extra space on the bottom side of the toolbar's title.
+     * If both this attribute and titleMargin are specified, then this
+     * attribute takes precedence. Margin values should be positive.
+>>>>>>> dev
 =======
      * Specifies extra space on the bottom side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
@@ -6452,6 +7589,12 @@ public final class R {
     public static final int titleMarginBottom=0x7f03028e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies extra space on the end side of the toolbar's title.
+     * If both this attribute and titleMargin are specified, then this
+     * attribute takes precedence. Margin values should be positive.
+>>>>>>> dev
 =======
      * Specifies extra space on the end side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
@@ -6466,6 +7609,12 @@ public final class R {
     public static final int titleMarginEnd=0x7f03028f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies extra space on the start side of the toolbar's title.
+     * If both this attribute and titleMargin are specified, then this
+     * attribute takes precedence. Margin values should be positive.
+>>>>>>> dev
 =======
      * Specifies extra space on the start side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
@@ -6480,6 +7629,12 @@ public final class R {
     public static final int titleMarginStart=0x7f030290;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies extra space on the top side of the toolbar's title.
+     * If both this attribute and titleMargin are specified, then this
+     * attribute takes precedence. Margin values should be positive.
+>>>>>>> dev
 =======
      * Specifies extra space on the top side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
@@ -6494,6 +7649,10 @@ public final class R {
     public static final int titleMarginTop=0x7f030291;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * {@deprecated Use titleMargin}
+>>>>>>> dev
 =======
      * {@deprecated Use titleMargin}
 >>>>>>> dev
@@ -6504,6 +7663,10 @@ public final class R {
      * mm (millimeters).
      */
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    @Deprecated
+>>>>>>> dev
 =======
     @Deprecated
 >>>>>>> dev
@@ -6517,6 +7680,10 @@ public final class R {
     public static final int titleTextAppearance=0x7f030293;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A color to apply to the title string.
+>>>>>>> dev
 =======
      * A color to apply to the title string.
 >>>>>>> dev
@@ -6527,6 +7694,10 @@ public final class R {
     public static final int titleTextColor=0x7f030294;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Specifies a style to use for title text.
+>>>>>>> dev
 =======
      * Specifies a style to use for title text.
 >>>>>>> dev
@@ -6545,6 +7716,10 @@ public final class R {
     public static final int toolbarId=0x7f030296;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Toolar NavigationButtonStyle
+>>>>>>> dev
 =======
      * Default Toolar NavigationButtonStyle
 >>>>>>> dev
@@ -6556,6 +7731,10 @@ public final class R {
     public static final int toolbarNavigationButtonStyle=0x7f030297;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Default Toolbar style.
+>>>>>>> dev
 =======
      * Default Toolbar style.
 >>>>>>> dev
@@ -6567,6 +7746,10 @@ public final class R {
     public static final int toolbarStyle=0x7f030298;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Foreground color to use for tooltips
+>>>>>>> dev
 =======
      * Foreground color to use for tooltips
 >>>>>>> dev
@@ -6581,6 +7764,10 @@ public final class R {
     public static final int tooltipForegroundColor=0x7f030299;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Background to use for tooltips
+>>>>>>> dev
 =======
      * Background to use for tooltips
 >>>>>>> dev
@@ -6592,6 +7779,10 @@ public final class R {
     public static final int tooltipFrameBackground=0x7f03029a;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The tooltip text associated with the item.
+>>>>>>> dev
 =======
      * The tooltip text associated with the item.
 >>>>>>> dev
@@ -6629,6 +7820,10 @@ public final class R {
     public static final int touchRegionId=0x7f03029e;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Drawable to use as the "track" that the switch thumb slides within.
+>>>>>>> dev
 =======
      * Drawable to use as the "track" that the switch thumb slides within.
 >>>>>>> dev
@@ -6640,6 +7835,10 @@ public final class R {
     public static final int track=0x7f03029f;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Tint to apply to the track.
+>>>>>>> dev
 =======
      * Tint to apply to the track.
 >>>>>>> dev
@@ -6650,6 +7849,10 @@ public final class R {
     public static final int trackTint=0x7f0302a0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Blending mode used to apply the track tint.
+>>>>>>> dev
 =======
      * Blending mode used to apply the track tint.
 >>>>>>> dev
@@ -6660,6 +7863,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -6667,6 +7871,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -6678,6 +7884,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      */
@@ -6727,6 +7936,11 @@ public final class R {
     public static final int triggerSlack=0x7f0302a7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * The index of the font in the tcc font file. If the font file referenced is not in the
+     * tcc format, this attribute needs not be specified.
+>>>>>>> dev
 =======
      * The index of the font in the tcc font file. If the font file referenced is not in the
      * tcc format, this attribute needs not be specified.
@@ -6763,6 +7977,10 @@ public final class R {
     public static final int visibilityMode=0x7f0302ac;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Voice button icon
+>>>>>>> dev
 =======
      * Voice button icon
 >>>>>>> dev
@@ -6845,6 +8063,11 @@ public final class R {
     public static final int waveVariesBy=0x7f0302b3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Flag indicating whether this window should have an Action Bar
+     * in place of the usual title bar.
+>>>>>>> dev
 =======
      * Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.
@@ -6855,6 +8078,12 @@ public final class R {
     public static final int windowActionBar=0x7f0302b4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Flag indicating whether this window's Action Bar should overlay
+     * application content. Does nothing if the window would not
+     * have an Action Bar.
+>>>>>>> dev
 =======
      * Flag indicating whether this window's Action Bar should overlay
      * application content. Does nothing if the window would not
@@ -6866,6 +8095,11 @@ public final class R {
     public static final int windowActionBarOverlay=0x7f0302b5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Flag indicating whether action modes should overlay window content
+     * when there is not reserved space for their UI (such as an Action Bar).
+>>>>>>> dev
 =======
      * Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).
@@ -6876,6 +8110,12 @@ public final class R {
     public static final int windowActionModeOverlay=0x7f0302b6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A fixed height for the window along the major axis of the screen,
+     * that is, when in portrait. Can be either an absolute dimension
+     * or a fraction of the screen size in that dimension.
+>>>>>>> dev
 =======
      * A fixed height for the window along the major axis of the screen,
      * that is, when in portrait. Can be either an absolute dimension
@@ -6894,6 +8134,12 @@ public final class R {
     public static final int windowFixedHeightMajor=0x7f0302b7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A fixed height for the window along the minor axis of the screen,
+     * that is, when in landscape. Can be either an absolute dimension
+     * or a fraction of the screen size in that dimension.
+>>>>>>> dev
 =======
      * A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape. Can be either an absolute dimension
@@ -6912,6 +8158,12 @@ public final class R {
     public static final int windowFixedHeightMinor=0x7f0302b8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A fixed width for the window along the major axis of the screen,
+     * that is, when in landscape. Can be either an absolute dimension
+     * or a fraction of the screen size in that dimension.
+>>>>>>> dev
 =======
      * A fixed width for the window along the major axis of the screen,
      * that is, when in landscape. Can be either an absolute dimension
@@ -6930,6 +8182,12 @@ public final class R {
     public static final int windowFixedWidthMajor=0x7f0302b9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * A fixed width for the window along the minor axis of the screen,
+     * that is, when in portrait. Can be either an absolute dimension
+     * or a fraction of the screen size in that dimension.
+>>>>>>> dev
 =======
      * A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait. Can be either an absolute dimension
@@ -6948,11 +8206,17 @@ public final class R {
     public static final int windowFixedWidthMinor=0x7f0302ba;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The minimum width the window is allowed to be, along the major
      * axis of the screen.  That is, when in landscape.  Can be either
      * an absolute dimension or a fraction of the screen size in that
      * dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6967,11 +8231,17 @@ public final class R {
     public static final int windowMinWidthMajor=0x7f0302bb;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> dev
      * The minimum width the window is allowed to be, along the minor
      * axis of the screen.  That is, when in portrait.  Can be either
      * an absolute dimension or a fraction of the screen size in that
      * dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -6986,6 +8256,10 @@ public final class R {
     public static final int windowMinWidthMinor=0x7f0302bc;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+     * Flag indicating whether there should be no title on this window.
+>>>>>>> dev
 =======
      * Flag indicating whether there should be no title on this window.
 >>>>>>> dev
@@ -7602,6 +8876,7 @@ public final class R {
     public static final int action_mode_bar_stub=0x7f08003a;
     public static final int action_mode_close_button=0x7f08003b;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static final int action_noteDetailView2_to_noteListView2=0x7f08003c;
     public static final int action_noteDetailView_to_noteListView2=0x7f08003d;
     public static final int action_noteListView2_to_loginActivity=0x7f08003e;
@@ -7893,6 +9168,8 @@ public final class R {
     public static final int wrap=0x7f08015c;
     public static final int wrap_content=0x7f08015d;
 =======
+=======
+>>>>>>> dev
     public static final int action_noteDetailView_to_noteListView2=0x7f08003c;
     public static final int action_noteListView_to_loginActivity=0x7f08003d;
     public static final int action_noteListView_to_noteDetailView=0x7f08003e;
@@ -8176,6 +9453,9 @@ public final class R {
     public static final int withText=0x7f080154;
     public static final int wrap=0x7f080155;
     public static final int wrap_content=0x7f080156;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
   }
   public static final class integer {
@@ -8242,6 +9522,7 @@ public final class R {
     public static final int activity_login=0x7f0b001c;
     public static final int activity_note=0x7f0b001d;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static final int activity_note_demo=0x7f0b001e;
     public static final int custom_dialog=0x7f0b001f;
     public static final int design_bottom_navigation_item=0x7f0b0020;
@@ -8260,6 +9541,8 @@ public final class R {
     public static final int design_text_input_password_icon=0x7f0b002d;
     public static final int fragment_login=0x7f0b002e;
 =======
+=======
+>>>>>>> dev
     public static final int custom_dialog=0x7f0b001e;
     public static final int design_bottom_navigation_item=0x7f0b001f;
     public static final int design_bottom_sheet_dialog=0x7f0b0020;
@@ -8277,6 +9560,9 @@ public final class R {
     public static final int design_text_input_password_icon=0x7f0b002c;
     public static final int fragment_login=0x7f0b002d;
     public static final int fragment_login_demo=0x7f0b002e;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
     public static final int fragment_note_detail=0x7f0b002f;
     public static final int fragment_note_list=0x7f0b0030;
@@ -8302,7 +9588,10 @@ public final class R {
   public static final class navigation {
     public static final int nav_graph=0x7f0d0000;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static final int nav_graph_demo=0x7f0d0001;
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
   }
@@ -8898,6 +10187,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ActionBar_background com.wiseassblog.jetpacknotesmvvmkotlin:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_backgroundSplit com.wiseassblog.jetpacknotesmvvmkotlin:backgroundSplit}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_backgroundStacked com.wiseassblog.jetpacknotesmvvmkotlin:backgroundStacked}</code></td><td></td></tr>
@@ -8928,6 +10218,8 @@ public final class R {
      * <tr><td><code>{@link #ActionBar_title com.wiseassblog.jetpacknotesmvvmkotlin:title}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_titleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:titleTextStyle}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #ActionBar_background com.wiseassblog.jetpacknotesmvvmkotlin:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
      * <tr><td><code>{@link #ActionBar_backgroundSplit com.wiseassblog.jetpacknotesmvvmkotlin:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
      * <tr><td><code>{@link #ActionBar_backgroundStacked com.wiseassblog.jetpacknotesmvvmkotlin:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
@@ -8961,6 +10253,9 @@ public final class R {
      * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
      * <tr><td><code>{@link #ActionBar_title com.wiseassblog.jetpacknotesmvvmkotlin:title}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionBar_titleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #ActionBar_background
@@ -9005,8 +10300,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a background drawable for the action bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9023,8 +10324,14 @@ public final class R {
     public static final int ActionBar_background=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a background drawable for the bottom component of a split action bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9044,8 +10351,14 @@ public final class R {
     public static final int ActionBar_backgroundSplit=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a background drawable for a second stacked row of the action bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9065,13 +10378,19 @@ public final class R {
     public static final int ActionBar_backgroundStacked=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9085,13 +10404,19 @@ public final class R {
     public static final int ActionBar_contentInsetEnd=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar when actions from a menu
      * are present. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9105,13 +10430,19 @@ public final class R {
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9125,13 +10456,19 @@ public final class R {
     public static final int ActionBar_contentInsetLeft=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9145,13 +10482,19 @@ public final class R {
     public static final int ActionBar_contentInsetRight=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9165,13 +10508,19 @@ public final class R {
     public static final int ActionBar_contentInsetStart=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9185,8 +10534,14 @@ public final class R {
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a layout for custom navigation. Overrides navigationMode.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9203,8 +10558,14 @@ public final class R {
     public static final int ActionBar_customNavigationLayout=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Options affecting how the action bar is displayed.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9231,8 +10592,14 @@ public final class R {
     public static final int ActionBar_displayOptions=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies the drawable used for item dividers.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9249,8 +10616,14 @@ public final class R {
     public static final int ActionBar_divider=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9268,8 +10641,14 @@ public final class R {
     public static final int ActionBar_elevation=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a fixed height.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9287,8 +10666,14 @@ public final class R {
     public static final int ActionBar_height=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Set true to hide the action bar on a vertical nested scroll of content.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9303,8 +10688,14 @@ public final class R {
     public static final int ActionBar_hideOnContentScroll=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Up navigation glyph
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9321,8 +10712,14 @@ public final class R {
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a layout to use for the "home" section of the action bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9339,8 +10736,14 @@ public final class R {
     public static final int ActionBar_homeLayout=16;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies the drawable used for the application icon.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9357,8 +10760,14 @@ public final class R {
     public static final int ActionBar_icon=17;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style resource to use for an indeterminate progress spinner.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9375,13 +10784,19 @@ public final class R {
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9395,8 +10810,14 @@ public final class R {
     public static final int ActionBar_itemPadding=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies the drawable used for the application logo.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9413,8 +10834,14 @@ public final class R {
     public static final int ActionBar_logo=20;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * The type of navigation to use.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9428,9 +10855,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>listMode</td><td>1</td><td></td></tr>
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
+=======
+     * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
+     * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
+     * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>listMode</td><td>1</td><td>The action bar will use a selection list for navigation.</td></tr>
      * <tr><td>normal</td><td>0</td><td>Normal static title text</td></tr>
@@ -9443,13 +10876,19 @@ public final class R {
     public static final int ActionBar_navigationMode=21;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -9462,8 +10901,14 @@ public final class R {
     public static final int ActionBar_popupTheme=22;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies the horizontal padding on either end for an embedded progress bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9481,8 +10926,14 @@ public final class R {
     public static final int ActionBar_progressBarPadding=23;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style resource to use for an embedded progress bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9499,8 +10950,14 @@ public final class R {
     public static final int ActionBar_progressBarStyle=24;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies subtitle text used for navigationMode="normal"
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9515,8 +10972,14 @@ public final class R {
     public static final int ActionBar_subtitle=25;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style to use for subtitle text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9533,8 +10996,14 @@ public final class R {
     public static final int ActionBar_subtitleTextStyle=26;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies title text used for navigationMode="normal"
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9549,8 +11018,14 @@ public final class R {
     public static final int ActionBar_title=27;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style to use for title text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9645,6 +11120,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ActionMode_background com.wiseassblog.jetpacknotesmvvmkotlin:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionMode_backgroundSplit com.wiseassblog.jetpacknotesmvvmkotlin:backgroundSplit}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionMode_closeItemLayout com.wiseassblog.jetpacknotesmvvmkotlin:closeItemLayout}</code></td><td></td></tr>
@@ -9652,12 +11128,17 @@ public final class R {
      * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:subtitleTextStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionMode_titleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:titleTextStyle}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #ActionMode_background com.wiseassblog.jetpacknotesmvvmkotlin:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
      * <tr><td><code>{@link #ActionMode_backgroundSplit com.wiseassblog.jetpacknotesmvvmkotlin:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
      * <tr><td><code>{@link #ActionMode_closeItemLayout com.wiseassblog.jetpacknotesmvvmkotlin:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
      * <tr><td><code>{@link #ActionMode_height com.wiseassblog.jetpacknotesmvvmkotlin:height}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
      * <tr><td><code>{@link #ActionMode_titleTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #ActionMode_background
@@ -9673,8 +11154,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a background for the action mode bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9691,8 +11178,14 @@ public final class R {
     public static final int ActionMode_background=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a background for the split action mode bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9712,8 +11205,14 @@ public final class R {
     public static final int ActionMode_backgroundSplit=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a layout to use for the "close" item at the starting edge.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9730,8 +11229,14 @@ public final class R {
     public static final int ActionMode_closeItemLayout=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a fixed height for the action mode bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9749,8 +11254,14 @@ public final class R {
     public static final int ActionMode_height=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style to use for subtitle text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9767,8 +11278,14 @@ public final class R {
     public static final int ActionMode_subtitleTextStyle=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a style to use for title text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -9791,8 +11308,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.wiseassblog.jetpacknotesmvvmkotlin:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
      * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.wiseassblog.jetpacknotesmvvmkotlin:initialActivityCount}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.wiseassblog.jetpacknotesmvvmkotlin:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.wiseassblog.jetpacknotesmvvmkotlin:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.wiseassblog.jetpacknotesmvvmkotlin:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
      * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.wiseassblog.jetpacknotesmvvmkotlin:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
@@ -9806,9 +11328,12 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The drawable to show in the button for expanding the activities overflow popup.
@@ -9816,6 +11341,9 @@ public final class R {
      * as a clue about the action the chosen activity will perform. For
      * example, if share activity is to be chosen the drawable should
      * give a clue that sharing is to be performed.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -9828,8 +11356,14 @@ public final class R {
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
+=======
+     * <p>
+     * @attr description
+     * The maximal number of items initially shown in the activity list.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10066,14 +11600,20 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#dither}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Enables or disables dithering of the bitmap if the bitmap does not have the
      * same pixel configuration as the screen (for instance: a ARGB 8888 bitmap with
      * an RGB 565 screen).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10084,8 +11624,14 @@ public final class R {
     public static final int AnimatedStateListDrawableCompat_android_dither=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Indicates whether the drawable should be initially visible.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10100,9 +11646,12 @@ public final class R {
     public static final int AnimatedStateListDrawableCompat_android_visible=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#variablePadding}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * If true, allows the drawable's padding to change based on the
@@ -10111,6 +11660,9 @@ public final class R {
      * Enabling this feature requires that the owner of the drawable
      * deal with performing layout when the state changes, which is
      * often not supported.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10121,15 +11673,21 @@ public final class R {
     public static final int AnimatedStateListDrawableCompat_android_variablePadding=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#constantSize}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * If true, the drawable's reported internal size will remain
      * constant as the state changes; the size is the maximum of all
      * of the states.  If false, the size will vary based on the
      * current state.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10140,8 +11698,14 @@ public final class R {
     public static final int AnimatedStateListDrawableCompat_android_constantSize=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#enterFadeDuration}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of time (in milliseconds) to fade in a new state drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10155,8 +11719,14 @@ public final class R {
     public static final int AnimatedStateListDrawableCompat_android_enterFadeDuration=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#exitFadeDuration}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of time (in milliseconds) to fade out an old state drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10186,8 +11756,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#id}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableItem} array.
+=======
+     * <p>
+     * @attr description
+     * Keyframe identifier for use in specifying transitions.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10204,13 +11780,19 @@ public final class R {
     public static final int AnimatedStateListDrawableItem_android_id=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#drawable}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a drawable resource to use for the frame.  If not
      * given, the drawable must be defined by the first child tag.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -10243,13 +11825,19 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#drawable}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableTransition} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a animation drawable resource to use for the frame.  If not
      * given, the animation drawable must be defined by the first child tag.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -10262,8 +11850,14 @@ public final class R {
     public static final int AnimatedStateListDrawableTransition_android_drawable=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#toId}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableTransition} array.
+=======
+     * <p>
+     * @attr description
+     * Keyframe identifier for the ending state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10280,8 +11874,14 @@ public final class R {
     public static final int AnimatedStateListDrawableTransition_android_toId=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#fromId}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableTransition} array.
+=======
+     * <p>
+     * @attr description
+     * Keyframe identifier for the starting state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10298,8 +11898,14 @@ public final class R {
     public static final int AnimatedStateListDrawableTransition_android_fromId=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#reversible}
      * attribute's value can be found in the {@link #AnimatedStateListDrawableTransition} array.
+=======
+     * <p>
+     * @attr description
+     * Whether this transition is reversible.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10323,7 +11929,11 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #AppBarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #AppBarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #AppBarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
 >>>>>>> dev
@@ -10378,8 +11988,14 @@ public final class R {
     public static final int AppBarLayout_android_keyboardNavigationCluster=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10533,9 +12149,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #AppCompatImageView_srcCompat com.wiseassblog.jetpacknotesmvvmkotlin:srcCompat}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatImageView_tint com.wiseassblog.jetpacknotesmvvmkotlin:tint}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatImageView_tintMode com.wiseassblog.jetpacknotesmvvmkotlin:tintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.wiseassblog.jetpacknotesmvvmkotlin:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.wiseassblog.jetpacknotesmvvmkotlin:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.wiseassblog.jetpacknotesmvvmkotlin:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #AppCompatImageView_srcCompat com.wiseassblog.jetpacknotesmvvmkotlin:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
      * <tr><td><code>{@link #AppCompatImageView_tint com.wiseassblog.jetpacknotesmvvmkotlin:tint}</code></td><td>Tint to apply to the image source.</td></tr>
@@ -10567,13 +12189,19 @@ public final class R {
     public static final int AppCompatImageView_android_src=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Sets a drawable as the content of this ImageView. Allows the use of vector drawable
      * when running on older versions of the platform.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -10586,8 +12214,14 @@ public final class R {
     public static final int AppCompatImageView_srcCompat=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the image source.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10603,8 +12237,14 @@ public final class R {
     public static final int AppCompatImageView_tint=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the image source tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10618,6 +12258,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -10625,6 +12266,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -10636,6 +12279,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -10651,9 +12297,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.wiseassblog.jetpacknotesmvvmkotlin:tickMark}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.wiseassblog.jetpacknotesmvvmkotlin:tickMarkTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.wiseassblog.jetpacknotesmvvmkotlin:tickMarkTintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.wiseassblog.jetpacknotesmvvmkotlin:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.wiseassblog.jetpacknotesmvvmkotlin:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.wiseassblog.jetpacknotesmvvmkotlin:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.wiseassblog.jetpacknotesmvvmkotlin:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.wiseassblog.jetpacknotesmvvmkotlin:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
@@ -10682,8 +12334,14 @@ public final class R {
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable displayed at each progress position on a seekbar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10700,8 +12358,14 @@ public final class R {
     public static final int AppCompatSeekBar_tickMark=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the tick mark drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10717,8 +12381,14 @@ public final class R {
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the tick mark tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -10732,6 +12402,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -10739,6 +12410,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -10750,6 +12423,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -10894,6 +12570,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.wiseassblog.jetpacknotesmvvmkotlin:autoSizeMaxTextSize}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.wiseassblog.jetpacknotesmvvmkotlin:autoSizeMinTextSize}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.wiseassblog.jetpacknotesmvvmkotlin:autoSizePresetSizes}</code></td><td></td></tr>
@@ -10915,6 +12592,8 @@ public final class R {
      * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.wiseassblog.jetpacknotesmvvmkotlin:textAllCaps}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTextView_textLocale com.wiseassblog.jetpacknotesmvvmkotlin:textLocale}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.wiseassblog.jetpacknotesmvvmkotlin:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
      * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.wiseassblog.jetpacknotesmvvmkotlin:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
      * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.wiseassblog.jetpacknotesmvvmkotlin:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
@@ -10939,6 +12618,9 @@ public final class R {
      * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.wiseassblog.jetpacknotesmvvmkotlin:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * <tr><td><code>{@link #AppCompatTextView_textLocale com.wiseassblog.jetpacknotesmvvmkotlin:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -10985,8 +12667,14 @@ public final class R {
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * The maximum text size constraint to be used when auto-sizing text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11004,8 +12692,14 @@ public final class R {
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * The minimum text size constraint to be used when auto-sizing text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11023,14 +12717,20 @@ public final class R {
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>. Overrides
      * <code>autoSizeStepGranularity</code> if set.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -11043,14 +12743,20 @@ public final class R {
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>. The default is 1px. Overwrites
      * <code>autoSizePresetSizes</code> if set.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11064,13 +12770,19 @@ public final class R {
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specify the type of auto-size. Note that this feature is not supported by EditText,
      * works only for TextView.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -11080,8 +12792,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>uniform</td><td>1</td><td></td></tr>
+=======
+     * <tr><td>none</td><td>0</td><td>No auto-sizing (default).</td></tr>
+     * <tr><td>uniform</td><td>1</td><td>Uniform horizontal and vertical text size scaling to fit within the
+     * container.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>none</td><td>0</td><td>No auto-sizing (default).</td></tr>
      * <tr><td>uniform</td><td>1</td><td>Uniform horizontal and vertical text size scaling to fit within the
@@ -11118,13 +12836,19 @@ public final class R {
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#drawableLeftCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -11161,8 +12885,14 @@ public final class R {
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#drawableTint}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the compound (left, top, etc.) drawables.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11178,8 +12908,14 @@ public final class R {
     public static final int AppCompatTextView_drawableTint=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#drawableTintMode}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the compound (left, top, etc.) drawables tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11193,6 +12929,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -11200,6 +12937,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -11211,6 +12950,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -11231,13 +12973,19 @@ public final class R {
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#firstBaselineToTopHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Distance from the top of the TextView to the first text baseline. If set, this
      * overrides the value set for paddingTop.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11251,8 +12999,14 @@ public final class R {
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * The attribute for the font family.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11267,8 +13021,14 @@ public final class R {
     public static final int AppCompatTextView_fontFamily=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * OpenType font variation settings, available after api 26.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11283,13 +13043,19 @@ public final class R {
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#lastBaselineToBottomHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Distance from the bottom of the TextView to the last text baseline. If set, this
      * overrides the value set for paddingBottom.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11303,13 +13069,19 @@ public final class R {
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#lineHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Explicit height between lines of text. If set, this will override the values set
      * for lineSpacingExtra and lineSpacingMultiplier.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11323,8 +13095,14 @@ public final class R {
     public static final int AppCompatTextView_lineHeight=18;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
+=======
+     * <p>
+     * @attr description
+     * Present the text in ALL CAPS. This may use a small-caps form when available.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11343,9 +13121,12 @@ public final class R {
     public static final int AppCompatTextView_textAllCaps=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textLocale}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Set the textLocale by a comma-separated language tag string,
@@ -11353,6 +13134,9 @@ public final class R {
      * Before API 24, only the first language tag is used. Starting from API 24,
      * the string will be converted into a {@link android.os.LocaleList} and then used by
      * {@link android.widget.TextView}
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11370,6 +13154,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
+<<<<<<< HEAD
 <<<<<<< HEAD
      * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.wiseassblog.jetpacknotesmvvmkotlin:actionBarDivider}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.wiseassblog.jetpacknotesmvvmkotlin:actionBarItemBackground}</code></td><td></td></tr>
@@ -11495,6 +13280,8 @@ public final class R {
      * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.wiseassblog.jetpacknotesmvvmkotlin:windowMinWidthMinor}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.wiseassblog.jetpacknotesmvvmkotlin:windowNoTitle}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.wiseassblog.jetpacknotesmvvmkotlin:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
      * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.wiseassblog.jetpacknotesmvvmkotlin:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
      * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.wiseassblog.jetpacknotesmvvmkotlin:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
@@ -11635,6 +13422,9 @@ public final class R {
      * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.wiseassblog.jetpacknotesmvvmkotlin:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
      * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.wiseassblog.jetpacknotesmvvmkotlin:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
@@ -11821,8 +13611,14 @@ public final class R {
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Custom divider drawable to use for elements in the action bar.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11839,8 +13635,14 @@ public final class R {
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Custom item state list drawable background for action bar items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11857,13 +13659,19 @@ public final class R {
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -11876,13 +13684,19 @@ public final class R {
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Size of the Action Bar, including the contextual
      * bar used to present Action Modes.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11904,15 +13718,21 @@ public final class R {
     public static final int AppCompatTheme_actionBarSize=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a style for the split Action Bar. This style
      * controls the split component that holds the menu/action
      * buttons. actionBarStyle is still used for the primary
      * bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -11925,8 +13745,14 @@ public final class R {
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Reference to a style for the Action Bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11955,8 +13781,14 @@ public final class R {
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default style for tabs within an action bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -11985,14 +13817,20 @@ public final class R {
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a theme that should be used to inflate the
      * action bar. This will be inherited by any widget inflated
      * into the action bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -12005,9 +13843,12 @@ public final class R {
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a theme that should be used to inflate widgets
@@ -12017,6 +13858,9 @@ public final class R {
      * profile than the rest of the activity the difference
      * can become important. If this is set to @null the current
      * theme will be used.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -12029,8 +13873,14 @@ public final class R {
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default action button style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12047,8 +13897,14 @@ public final class R {
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default ActionBar dropdown style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12065,13 +13921,19 @@ public final class R {
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * TextAppearance style that will be applied to text that
      * appears within action menu items.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -12084,8 +13946,14 @@ public final class R {
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Color for text that appears within action menu items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12105,8 +13973,14 @@ public final class R {
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Background drawable to use for action mode UI
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12135,8 +14009,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the close action mode button
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12153,8 +14033,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Copy action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12171,8 +14057,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Cut action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12189,8 +14081,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Find action button in WebView selection action modes
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12207,8 +14105,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Paste action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12225,8 +14129,14 @@ public final class R {
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * PopupWindow style to use for action modes when showing as a window overlay.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12243,8 +14153,14 @@ public final class R {
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Select all action button in Contextual Action Bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12261,8 +14177,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Share action button in WebView selection action modes
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12279,8 +14201,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Background drawable to use for action mode UI in the lower split bar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12309,8 +14237,14 @@ public final class R {
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use for the Web Search action button in WebView selection action modes
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12351,8 +14285,14 @@ public final class R {
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default ActivityChooserView style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12403,8 +14343,14 @@ public final class R {
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Theme to use for alert dialogs spawned from this theme.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12421,8 +14367,14 @@ public final class R {
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default AutoCompleteTextView style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12439,8 +14391,14 @@ public final class R {
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for buttons without an explicit border, often used in groups.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12457,8 +14415,14 @@ public final class R {
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for buttons within button bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12475,8 +14439,14 @@ public final class R {
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for the "negative" buttons within button bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12493,8 +14463,14 @@ public final class R {
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for the "neutral" buttons within button bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12511,8 +14487,14 @@ public final class R {
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for the "positive" buttons within button bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12529,8 +14511,14 @@ public final class R {
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for button bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12547,8 +14535,14 @@ public final class R {
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Normal Button style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12565,8 +14559,14 @@ public final class R {
     public static final int AppCompatTheme_buttonStyle=44;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Small Button style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12583,8 +14583,14 @@ public final class R {
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Checkbox style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12601,8 +14607,14 @@ public final class R {
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default CheckedTextView style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12619,13 +14631,19 @@ public final class R {
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Bright complement to the primary branding color. By default, this is the color applied
      * to framework controls (via colorControlActivated).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -12637,8 +14655,14 @@ public final class R {
     public static final int AppCompatTheme_colorAccent=48;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default color of background imagery for floating components, ex. dialogs, popups, and cards.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12654,8 +14678,14 @@ public final class R {
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The color applied to framework buttons in their normal state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12671,8 +14701,14 @@ public final class R {
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The color applied to framework controls in their activated (ex. checked) state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12688,8 +14724,14 @@ public final class R {
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The color applied to framework control highlights (ex. ripples, list selectors).
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12705,8 +14747,14 @@ public final class R {
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The color applied to framework controls in their normal state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12722,13 +14770,19 @@ public final class R {
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Color used for error states and things that need to be drawn to
      * the user's attention.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -12744,13 +14798,19 @@ public final class R {
     public static final int AppCompatTheme_colorError=54;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The primary branding color for the app. By default, this is the color applied to the
      * action bar background.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -12762,13 +14822,19 @@ public final class R {
     public static final int AppCompatTheme_colorPrimary=55;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Dark variant of the primary branding color. By default, this is the color applied to
      * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -12780,8 +14846,14 @@ public final class R {
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The color applied to framework switch thumbs in their normal state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12797,8 +14869,14 @@ public final class R {
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The background used by framework controls.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12815,8 +14893,14 @@ public final class R {
     public static final int AppCompatTheme_controlBackground=58;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dialogCornerRadius}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Preferred corner radius of dialogs.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12834,8 +14918,14 @@ public final class R {
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Preferred padding for dialog content.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12853,8 +14943,14 @@ public final class R {
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Theme to use for dialogs spawned from this theme.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12871,8 +14967,14 @@ public final class R {
     public static final int AppCompatTheme_dialogTheme=61;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * A drawable that may be used as a horizontal divider between visual elements.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12889,8 +14991,14 @@ public final class R {
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * A drawable that may be used as a vertical divider between visual elements.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12907,8 +15015,14 @@ public final class R {
     public static final int AppCompatTheme_dividerVertical=63;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * ListPopupWindow compatibility
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12925,8 +15039,14 @@ public final class R {
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred item height for dropdown lists.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12944,8 +15064,14 @@ public final class R {
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * EditText background drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12962,8 +15088,14 @@ public final class R {
     public static final int AppCompatTheme_editTextBackground=66;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * EditText text foreground color.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -12983,8 +15115,14 @@ public final class R {
     public static final int AppCompatTheme_editTextColor=67;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default EditText style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13001,8 +15139,14 @@ public final class R {
     public static final int AppCompatTheme_editTextStyle=68;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies a drawable to use for the 'home as up' indicator.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13019,8 +15163,14 @@ public final class R {
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * ImageButton background drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13037,8 +15187,14 @@ public final class R {
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable used as a background for selected list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13055,8 +15211,14 @@ public final class R {
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listChoiceIndicatorMultipleAnimated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Animated Drawable to use for single choice indicators.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13073,8 +15235,14 @@ public final class R {
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listChoiceIndicatorSingleAnimated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Animated Drawable to use for multiple choice indicators.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13091,8 +15259,14 @@ public final class R {
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The list divider used in alert dialogs.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13109,8 +15283,14 @@ public final class R {
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default menu-style ListView style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13139,8 +15319,14 @@ public final class R {
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred list item height.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13158,8 +15344,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * A larger, more robust list item height.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13177,8 +15369,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * A smaller, sleeker list item height.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13196,8 +15394,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemPaddingEnd}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred padding along the end edge of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13215,8 +15419,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred padding along the left edge of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13234,8 +15444,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred padding along the right edge of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13253,8 +15469,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#listPreferredItemPaddingStart}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred padding along the start edge of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13272,8 +15494,14 @@ public final class R {
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The background of a panel when it is inset from the left and right edges of the screen.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13290,8 +15518,14 @@ public final class R {
     public static final int AppCompatTheme_panelBackground=84;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Panel Menu style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13308,8 +15542,14 @@ public final class R {
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Panel Menu width.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13327,8 +15567,14 @@ public final class R {
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default PopupMenu style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13345,8 +15591,14 @@ public final class R {
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default PopupWindow style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13363,8 +15615,14 @@ public final class R {
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default RadioButton style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13381,8 +15639,14 @@ public final class R {
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default RatingBar style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13399,8 +15663,14 @@ public final class R {
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Indicator RatingBar style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13417,8 +15687,14 @@ public final class R {
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Small indicator RatingBar style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13435,8 +15711,14 @@ public final class R {
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Style for the search query widget.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13453,8 +15735,14 @@ public final class R {
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default SeekBar style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13471,14 +15759,20 @@ public final class R {
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -13491,8 +15785,14 @@ public final class R {
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Background drawable for borderless standalone items that need focus/pressed states.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13509,8 +15809,14 @@ public final class R {
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Spinner style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13527,8 +15833,14 @@ public final class R {
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Spinner style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13545,8 +15857,14 @@ public final class R {
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default style for the Switch widget.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13563,8 +15881,14 @@ public final class R {
     public static final int AppCompatTheme_switchStyle=99;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color, typeface, size, and style for the text inside of a popup menu.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13581,8 +15905,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred TextAppearance for the primary text of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13599,8 +15929,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred TextAppearance for the secondary text of list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13617,8 +15953,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * The preferred TextAppearance for the primary text of small list items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13635,8 +15977,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color, typeface, size, and style for header text inside of a popup menu.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13653,8 +16001,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color, typeface, size, and style for system search result subtitle. Defaults to primary inverse text color.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13671,8 +16025,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color, typeface, size, and style for system search result title. Defaults to primary inverse text color.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13689,8 +16049,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color, typeface, size, and style for small text inside of a popup menu.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13707,8 +16073,14 @@ public final class R {
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Color of list item text in alert dialogs.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13728,8 +16100,14 @@ public final class R {
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Text color for urls in search suggestions, used by things like global search
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13749,8 +16127,14 @@ public final class R {
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Toolar NavigationButtonStyle
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13767,8 +16151,14 @@ public final class R {
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default Toolbar style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13785,8 +16175,14 @@ public final class R {
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Foreground color to use for tooltips
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13806,8 +16202,14 @@ public final class R {
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Background to use for tooltips
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -13834,13 +16236,19 @@ public final class R {
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -13851,14 +16259,20 @@ public final class R {
     public static final int AppCompatTheme_windowActionBar=115;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Flag indicating whether this window's Action Bar should overlay
      * application content. Does nothing if the window would not
      * have an Action Bar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -13869,13 +16283,19 @@ public final class R {
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -13886,14 +16306,20 @@ public final class R {
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A fixed height for the window along the major axis of the screen,
      * that is, when in portrait. Can be either an absolute dimension
      * or a fraction of the screen size in that dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13911,14 +16337,20 @@ public final class R {
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape. Can be either an absolute dimension
      * or a fraction of the screen size in that dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13936,14 +16368,20 @@ public final class R {
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A fixed width for the window along the major axis of the screen,
      * that is, when in landscape. Can be either an absolute dimension
      * or a fraction of the screen size in that dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13961,14 +16399,20 @@ public final class R {
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait. Can be either an absolute dimension
      * or a fraction of the screen size in that dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13986,15 +16430,21 @@ public final class R {
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The minimum width the window is allowed to be, along the major
      * axis of the screen.  That is, when in landscape.  Can be either
      * an absolute dimension or a fraction of the screen size in that
      * dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14012,15 +16462,21 @@ public final class R {
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The minimum width the window is allowed to be, along the minor
      * axis of the screen.  That is, when in portrait.  Can be either
      * an absolute dimension or a fraction of the screen size in that
      * dimension.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14038,8 +16494,14 @@ public final class R {
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Flag indicating whether there should be no title on this window.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14060,7 +16522,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #BottomAppBar_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #BottomAppBar_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
 >>>>>>> dev
@@ -14083,8 +16549,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #BottomAppBar} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the background.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14172,7 +16644,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #BottomNavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #BottomNavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
 >>>>>>> dev
@@ -14185,7 +16661,11 @@ public final class R {
      * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.wiseassblog.jetpacknotesmvvmkotlin:itemTextColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.wiseassblog.jetpacknotesmvvmkotlin:labelVisibilityMode}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #BottomNavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #BottomNavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #BottomNavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
 >>>>>>> dev
@@ -14208,8 +16688,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14327,8 +16813,14 @@ public final class R {
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
+=======
+     * <p>
+     * @attr description
+     * Menu resource to inflate to be shown in the toolbar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14422,7 +16914,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.wiseassblog.jetpacknotesmvvmkotlin:allowStacking}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.wiseassblog.jetpacknotesmvvmkotlin:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * enough space to lay them out side-by-side.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.wiseassblog.jetpacknotesmvvmkotlin:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
@@ -14435,13 +16932,19 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14460,6 +16963,7 @@ public final class R {
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #CardView_cardBackgroundColor com.wiseassblog.jetpacknotesmvvmkotlin:cardBackgroundColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_cardCornerRadius com.wiseassblog.jetpacknotesmvvmkotlin:cardCornerRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_cardElevation com.wiseassblog.jetpacknotesmvvmkotlin:cardElevation}</code></td><td></td></tr>
@@ -14472,6 +16976,8 @@ public final class R {
      * <tr><td><code>{@link #CardView_contentPaddingRight com.wiseassblog.jetpacknotesmvvmkotlin:contentPaddingRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_contentPaddingTop com.wiseassblog.jetpacknotesmvvmkotlin:contentPaddingTop}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #CardView_cardBackgroundColor com.wiseassblog.jetpacknotesmvvmkotlin:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
      * <tr><td><code>{@link #CardView_cardCornerRadius com.wiseassblog.jetpacknotesmvvmkotlin:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
      * <tr><td><code>{@link #CardView_cardElevation com.wiseassblog.jetpacknotesmvvmkotlin:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
@@ -14483,6 +16989,9 @@ public final class R {
      * <tr><td><code>{@link #CardView_contentPaddingLeft com.wiseassblog.jetpacknotesmvvmkotlin:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
      * <tr><td><code>{@link #CardView_contentPaddingRight com.wiseassblog.jetpacknotesmvvmkotlin:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
      * <tr><td><code>{@link #CardView_contentPaddingTop com.wiseassblog.jetpacknotesmvvmkotlin:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #CardView_android_minWidth
@@ -14507,8 +17016,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#minWidth}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Workaround to read user defined minimum width
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14526,8 +17041,14 @@ public final class R {
     public static final int CardView_android_minWidth=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#minHeight}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Workaround to read user defined minimum height
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14545,8 +17066,14 @@ public final class R {
     public static final int CardView_android_minHeight=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Background color for CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14562,8 +17089,14 @@ public final class R {
     public static final int CardView_cardBackgroundColor=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Corner radius for CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14581,8 +17114,14 @@ public final class R {
     public static final int CardView_cardCornerRadius=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14600,8 +17139,14 @@ public final class R {
     public static final int CardView_cardElevation=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Maximum Elevation for CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14619,8 +17164,14 @@ public final class R {
     public static final int CardView_cardMaxElevation=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14635,8 +17186,14 @@ public final class R {
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Add padding in API v21+ as well to have the same measurements with previous versions.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14651,8 +17208,14 @@ public final class R {
     public static final int CardView_cardUseCompatPadding=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Inner padding between the edges of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14670,8 +17233,14 @@ public final class R {
     public static final int CardView_contentPadding=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Inner padding between the bottom edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14689,8 +17258,14 @@ public final class R {
     public static final int CardView_contentPaddingBottom=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Inner padding between the left edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14708,8 +17283,14 @@ public final class R {
     public static final int CardView_contentPaddingLeft=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Inner padding between the right edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14727,8 +17308,14 @@ public final class R {
     public static final int CardView_contentPaddingRight=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
+=======
+     * <p>
+     * @attr description
+     * Inner padding between the top edge of the Card and children of the CardView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -14772,7 +17359,11 @@ public final class R {
      * <tr><td><code>{@link #Chip_chipStrokeColor com.wiseassblog.jetpacknotesmvvmkotlin:chipStrokeColor}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_chipStrokeWidth com.wiseassblog.jetpacknotesmvvmkotlin:chipStrokeWidth}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #Chip_closeIcon com.wiseassblog.jetpacknotesmvvmkotlin:closeIcon}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #Chip_closeIcon com.wiseassblog.jetpacknotesmvvmkotlin:closeIcon}</code></td><td>Close button icon</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #Chip_closeIcon com.wiseassblog.jetpacknotesmvvmkotlin:closeIcon}</code></td><td>Close button icon</td></tr>
 >>>>>>> dev
@@ -15078,8 +17669,14 @@ public final class R {
     public static final int Chip_chipStrokeWidth=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#closeIcon}
      * attribute's value can be found in the {@link #Chip} array.
+=======
+     * <p>
+     * @attr description
+     * Close button icon
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15662,7 +18259,11 @@ public final class R {
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ColorStateListItem_alpha com.wiseassblog.jetpacknotesmvvmkotlin:alpha}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.wiseassblog.jetpacknotesmvvmkotlin:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #ColorStateListItem_alpha com.wiseassblog.jetpacknotesmvvmkotlin:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
 >>>>>>> dev
@@ -15676,8 +18277,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#color}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
+=======
+     * <p>
+     * @attr description
+     * Base color for this state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15702,8 +18309,14 @@ public final class R {
     public static final int ColorStateListItem_android_alpha=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
+=======
+     * <p>
+     * @attr description
+     * Alpha multiplier applied to the base color.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15724,9 +18337,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #CompoundButton_buttonCompat com.wiseassblog.jetpacknotesmvvmkotlin:buttonCompat}</code></td><td></td></tr>
      * <tr><td><code>{@link #CompoundButton_buttonTint com.wiseassblog.jetpacknotesmvvmkotlin:buttonTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #CompoundButton_buttonTintMode com.wiseassblog.jetpacknotesmvvmkotlin:buttonTintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.wiseassblog.jetpacknotesmvvmkotlin:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.wiseassblog.jetpacknotesmvvmkotlin:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.wiseassblog.jetpacknotesmvvmkotlin:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #CompoundButton_buttonCompat com.wiseassblog.jetpacknotesmvvmkotlin:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
      * <tr><td><code>{@link #CompoundButton_buttonTint com.wiseassblog.jetpacknotesmvvmkotlin:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
@@ -15755,8 +18374,14 @@ public final class R {
     public static final int CompoundButton_android_button=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonCompat}
      * attribute's value can be found in the {@link #CompoundButton} array.
+=======
+     * <p>
+     * @attr description
+     * Compat attr to load backported drawable types
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15773,8 +18398,14 @@ public final class R {
     public static final int CompoundButton_buttonCompat=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the button drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15790,8 +18421,14 @@ public final class R {
     public static final int CompoundButton_buttonTint=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the button tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -15805,6 +18442,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -15812,6 +18450,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -15823,6 +18463,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -19202,7 +21845,11 @@ public final class R {
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>direct</td><td>1</td><td></td></tr>
+=======
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
 >>>>>>> dev
@@ -21175,8 +23822,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #CoordinatorLayout_keylines com.wiseassblog.jetpacknotesmvvmkotlin:keylines}</code></td><td></td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.wiseassblog.jetpacknotesmvvmkotlin:statusBarBackground}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.wiseassblog.jetpacknotesmvvmkotlin:keylines}</code></td><td>A reference to an array of integers representing the
+     * locations of horizontal keylines in dp from the starting edge.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.wiseassblog.jetpacknotesmvvmkotlin:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #CoordinatorLayout_keylines com.wiseassblog.jetpacknotesmvvmkotlin:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
@@ -21191,9 +23844,12 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A reference to an array of integers representing the
@@ -21201,6 +23857,9 @@ public final class R {
      * Child views can refer to these keylines for alignment using
      * layout_keyline="index" where index is a 0-based index into
      * this array.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -21213,8 +23872,14 @@ public final class R {
     public static final int CoordinatorLayout_keylines=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to display behind the status bar when the view is set to draw behind it.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21241,6 +23906,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.wiseassblog.jetpacknotesmvvmkotlin:layout_anchor}</code></td><td></td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.wiseassblog.jetpacknotesmvvmkotlin:layout_anchorGravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.wiseassblog.jetpacknotesmvvmkotlin:layout_behavior}</code></td><td></td></tr>
@@ -21248,6 +23914,8 @@ public final class R {
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.wiseassblog.jetpacknotesmvvmkotlin:layout_insetEdge}</code></td><td></td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.wiseassblog.jetpacknotesmvvmkotlin:layout_keyline}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.wiseassblog.jetpacknotesmvvmkotlin:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.wiseassblog.jetpacknotesmvvmkotlin:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
@@ -21257,6 +23925,9 @@ public final class R {
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.wiseassblog.jetpacknotesmvvmkotlin:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.wiseassblog.jetpacknotesmvvmkotlin:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
@@ -21302,8 +23973,14 @@ public final class R {
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+=======
+     * <p>
+     * @attr description
+     * The id of an anchor view that this view should position relative to.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21320,13 +23997,19 @@ public final class R {
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -21335,6 +24018,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<<<<<<< HEAD
 <<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center</td><td>11</td><td></td></tr>
@@ -21351,6 +24035,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
      * <tr><td>center</td><td>11</td><td>Place the object in the center of its container in both the vertical and horizontal axis, not changing its size.</td></tr>
      * <tr><td>center_horizontal</td><td>1</td><td>Place object in the horizontal center of its container, not changing its size.</td></tr>
@@ -21371,6 +24057,9 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Push object to the right of its container, not changing its size.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Push object to the beginning of its container, not changing its size.</td></tr>
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -21379,13 +24068,19 @@ public final class R {
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The class name of a Behavior class defining special runtime behavior
      * for this child view.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -21396,8 +24091,14 @@ public final class R {
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies how this view dodges the inset edges of the CoordinatorLayout.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21411,6 +24112,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>all</td><td>77</td><td></td></tr>
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>end</td><td>800005</td><td></td></tr>
@@ -21420,6 +24122,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>all</td><td>77</td><td>Dodge all the inset edges.</td></tr>
      * <tr><td>bottom</td><td>50</td><td>Dodge the bottom inset edge.</td></tr>
      * <tr><td>end</td><td>800005</td><td>Dodge the end inset edge.</td></tr>
@@ -21428,6 +24132,9 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Dodge the right inset edge.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Dodge the start inset edge.</td></tr>
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -21436,13 +24143,19 @@ public final class R {
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -21452,6 +24165,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>end</td><td>800005</td><td></td></tr>
      * <tr><td>left</td><td>3</td><td></td></tr>
@@ -21460,6 +24174,8 @@ public final class R {
      * <tr><td>start</td><td>800003</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>bottom</td><td>50</td><td>Inset the bottom edge.</td></tr>
      * <tr><td>end</td><td>800005</td><td>Inset the end edge.</td></tr>
      * <tr><td>left</td><td>3</td><td>Inset the left edge.</td></tr>
@@ -21467,6 +24183,9 @@ public final class R {
      * <tr><td>right</td><td>5</td><td>Inset the right edge.</td></tr>
      * <tr><td>start</td><td>800003</td><td>Inset the start edge.</td></tr>
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -21475,14 +24194,20 @@ public final class R {
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The index of a keyline this view should position relative to.
      * android:layout_gravity will affect how the view aligns to the
      * specified keyline.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -21690,6 +24415,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.wiseassblog.jetpacknotesmvvmkotlin:arrowHeadLength}</code></td><td></td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.wiseassblog.jetpacknotesmvvmkotlin:arrowShaftLength}</code></td><td></td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_barLength com.wiseassblog.jetpacknotesmvvmkotlin:barLength}</code></td><td></td></tr>
@@ -21699,6 +24425,8 @@ public final class R {
      * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.wiseassblog.jetpacknotesmvvmkotlin:spinBars}</code></td><td></td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_thickness com.wiseassblog.jetpacknotesmvvmkotlin:thickness}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.wiseassblog.jetpacknotesmvvmkotlin:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.wiseassblog.jetpacknotesmvvmkotlin:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_barLength com.wiseassblog.jetpacknotesmvvmkotlin:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
@@ -21707,6 +24435,9 @@ public final class R {
      * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.wiseassblog.jetpacknotesmvvmkotlin:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.wiseassblog.jetpacknotesmvvmkotlin:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
      * <tr><td><code>{@link #DrawerArrowToggle_thickness com.wiseassblog.jetpacknotesmvvmkotlin:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
@@ -21724,8 +24455,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The length of the arrow head when formed to make an arrow
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21743,8 +24480,14 @@ public final class R {
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The length of the shaft when formed to make an arrow
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21762,8 +24505,14 @@ public final class R {
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The length of the bars when they are parallel to each other
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21781,8 +24530,14 @@ public final class R {
     public static final int DrawerArrowToggle_barLength=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The drawing color for the bars
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21798,8 +24553,14 @@ public final class R {
     public static final int DrawerArrowToggle_color=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The total size of the drawable
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21817,8 +24578,14 @@ public final class R {
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The max gap between the bars when they are parallel to each other
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21836,8 +24603,14 @@ public final class R {
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * Whether bars should rotate or not during transition
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21852,8 +24625,14 @@ public final class R {
     public static final int DrawerArrowToggle_spinBars=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
+=======
+     * <p>
+     * @attr description
+     * The thickness (stroke size) for the bar paint
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21877,15 +24656,21 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td></td></tr>
      * <tr><td><code>{@link #FloatingActionButton_borderWidth com.wiseassblog.jetpacknotesmvvmkotlin:borderWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #FloatingActionButton_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
      * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * <tr><td><code>{@link #FloatingActionButton_borderWidth com.wiseassblog.jetpacknotesmvvmkotlin:borderWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #FloatingActionButton_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.wiseassblog.jetpacknotesmvvmkotlin:fabCustomSize}</code></td><td></td></tr>
      * <tr><td><code>{@link #FloatingActionButton_fabSize com.wiseassblog.jetpacknotesmvvmkotlin:fabSize}</code></td><td></td></tr>
@@ -21919,8 +24704,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the background.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21936,8 +24727,14 @@ public final class R {
     public static final int FloatingActionButton_backgroundTint=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the background tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -21951,6 +24748,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -21958,6 +24756,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -21969,6 +24769,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -21990,8 +24793,14 @@ public final class R {
     public static final int FloatingActionButton_borderWidth=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22196,6 +25005,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderAuthority}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderCerts com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderCerts}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderFetchStrategy}</code></td><td></td></tr>
@@ -22203,12 +25013,17 @@ public final class R {
      * <tr><td><code>{@link #FontFamily_fontProviderPackage com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderPackage}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderQuery com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderQuery}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderCerts com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderPackage com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
      * <tr><td><code>{@link #FontFamily_fontProviderQuery com.wiseassblog.jetpacknotesmvvmkotlin:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #FontFamily_fontProviderAuthority
@@ -22224,8 +25039,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
+=======
+     * <p>
+     * @attr description
+     * The authority of the Font Provider to be used for the request.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22240,9 +25061,12 @@ public final class R {
     public static final int FontFamily_fontProviderAuthority=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The sets of hashes for the certificates the provider should be signed with. This is
@@ -22250,6 +25074,9 @@ public final class R {
      * part of the system image. This value may point to one list or a list of lists, where each
      * individual list represents one collection of signature hashes. Refer to your font provider's
      * documentation for these values.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -22262,9 +25089,12 @@ public final class R {
     public static final int FontFamily_fontProviderCerts=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The strategy to be used when fetching font data from a font provider in XML layouts.
@@ -22274,6 +25104,9 @@ public final class R {
      * {@link
      * androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
      * (async).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -22283,9 +25116,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>async</td><td>1</td><td></td></tr>
      * <tr><td>blocking</td><td>0</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>async</td><td>1</td><td>The async font fetch works as follows.
      * First, check the local cache, then if the requeted font is not cached, trigger a
      * request the font and continue with layout inflation. Once the font fetch succeeds, the
@@ -22296,6 +25132,9 @@ public final class R {
      * font from the provider and wait until it is finished.  You can change the length of
      * the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
      * default typeface will be used instead.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -22304,8 +25143,14 @@ public final class R {
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
+=======
+     * <p>
+     * @attr description
+     * The length of the timeout during fetching.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22320,7 +25165,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
+=======
+     * <tr><td>forever</td><td>ffffffff</td><td>A special value for the timeout. In this case, the blocking font fetching will not
+     * timeout and wait until a reply is received from the font provider.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>forever</td><td>ffffffff</td><td>A special value for the timeout. In this case, the blocking font fetching will not
      * timeout and wait until a reply is received from the font provider.</td></tr>
@@ -22332,13 +25182,19 @@ public final class R {
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The package for the Font Provider to be used for the request. This is used to verify
      * the identity of the provider.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -22349,13 +25205,19 @@ public final class R {
     public static final int FontFamily_fontProviderPackage=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The query to be sent over to the provider. Refer to your font provider's documentation
      * on the format of this string.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -22377,17 +25239,23 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #FontFamilyFont_font com.wiseassblog.jetpacknotesmvvmkotlin:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontStyle com.wiseassblog.jetpacknotesmvvmkotlin:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.wiseassblog.jetpacknotesmvvmkotlin:fontVariationSettings}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontWeight com.wiseassblog.jetpacknotesmvvmkotlin:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.wiseassblog.jetpacknotesmvvmkotlin:ttcIndex}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #FontFamilyFont_font com.wiseassblog.jetpacknotesmvvmkotlin:font}</code></td><td>The reference to the font file to be used.</td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontStyle com.wiseassblog.jetpacknotesmvvmkotlin:fontStyle}</code></td><td>The style of the given font file.</td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.wiseassblog.jetpacknotesmvvmkotlin:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
      * <tr><td><code>{@link #FontFamilyFont_fontWeight com.wiseassblog.jetpacknotesmvvmkotlin:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
      * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.wiseassblog.jetpacknotesmvvmkotlin:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #FontFamilyFont_android_font
@@ -22429,8 +25297,14 @@ public final class R {
     public static final int FontFamilyFont_android_fontWeight=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
+=======
+     * <p>
+     * @attr description
+     * References to the framework attrs
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22471,13 +25345,19 @@ public final class R {
     public static final int FontFamilyFont_android_fontVariationSettings=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The reference to the font file to be used. This should be a file in the res/font folder
      * and should therefore have an R reference value. E.g. @font/myfont
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -22490,14 +25370,20 @@ public final class R {
     public static final int FontFamilyFont_font=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The style of the given font file. This will be used when the font is being loaded into
      * the font stack and will override any style information in the font's header tables. If
      * unspecified, the value in the font's header tables will be used.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -22515,15 +25401,21 @@ public final class R {
     public static final int FontFamilyFont_fontStyle=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The variation settings to be applied to the font. The string should be in the following
      * format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
      * used, or the font used does not support variation settings, this attribute needs not be
      * specified.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -22534,9 +25426,12 @@ public final class R {
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The weight of the given font file. This will be used when the font is being loaded into
@@ -22544,6 +25439,9 @@ public final class R {
      * be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
      * common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
      * in the font's header tables will be used.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -22553,13 +25451,19 @@ public final class R {
     public static final int FontFamilyFont_fontWeight=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#ttcIndex}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The index of the font in the tcc font file. If the font file referenced is not in the
      * tcc format, this attribute needs not be specified.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -22751,8 +25655,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#startColor}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Start color of the gradient.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22768,8 +25678,14 @@ public final class R {
     public static final int GradientColor_android_startColor=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#endColor}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * End color of the gradient.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22785,8 +25701,14 @@ public final class R {
     public static final int GradientColor_android_endColor=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#type}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Type of gradient. The default type is linear.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22809,8 +25731,14 @@ public final class R {
     public static final int GradientColor_android_type=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#centerX}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * X coordinate of the center of the gradient within the path.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22828,8 +25756,14 @@ public final class R {
     public static final int GradientColor_android_centerX=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#centerY}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Y coordinate of the center of the gradient within the path.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22847,8 +25781,14 @@ public final class R {
     public static final int GradientColor_android_centerY=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#gradientRadius}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Radius of the gradient, used only with radial gradient.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22871,8 +25811,14 @@ public final class R {
     public static final int GradientColor_android_gradientRadius=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#tileMode}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Defines the tile mode of the gradient. SweepGradient doesn't support tiling.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22896,8 +25842,14 @@ public final class R {
     public static final int GradientColor_android_tileMode=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#centerColor}
      * attribute's value can be found in the {@link #GradientColor} array.
+=======
+     * <p>
+     * @attr description
+     * Optional center color.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -22913,13 +25865,19 @@ public final class R {
     public static final int GradientColor_android_centerColor=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#startX}
      * attribute's value can be found in the {@link #GradientColor} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * X coordinate of the start point origin of the gradient.
      * Defined in same coordinates as the path itself
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -22929,13 +25887,19 @@ public final class R {
     public static final int GradientColor_android_startX=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#startY}
      * attribute's value can be found in the {@link #GradientColor} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Y coordinate of the start point of the gradient within the shape.
      * Defined in same coordinates as the path itself
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -22945,13 +25909,19 @@ public final class R {
     public static final int GradientColor_android_startY=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#endX}
      * attribute's value can be found in the {@link #GradientColor} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * X coordinate of the end point origin of the gradient.
      * Defined in same coordinates as the path itself
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -22961,13 +25931,19 @@ public final class R {
     public static final int GradientColor_android_endX=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#endY}
      * attribute's value can be found in the {@link #GradientColor} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Y coordinate of the end point of the gradient within the shape.
      * Defined in same coordinates as the path itself
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -22993,8 +25969,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#color}
      * attribute's value can be found in the {@link #GradientColorItem} array.
+=======
+     * <p>
+     * @attr description
+     * The current color for the offset inside the gradient.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -23010,13 +25992,19 @@ public final class R {
     public static final int GradientColorItem_android_color=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#offset}
      * attribute's value can be found in the {@link #GradientColorItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The offset (or ratio) of this current color item inside the gradient.
      * The value is only meaningful when it is between 0 and 1.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -25580,16 +28568,22 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #LinearLayoutCompat_divider com.wiseassblog.jetpacknotesmvvmkotlin:divider}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.wiseassblog.jetpacknotesmvvmkotlin:dividerPadding}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.wiseassblog.jetpacknotesmvvmkotlin:measureWithLargestChild}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.wiseassblog.jetpacknotesmvvmkotlin:showDividers}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #LinearLayoutCompat_divider com.wiseassblog.jetpacknotesmvvmkotlin:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.wiseassblog.jetpacknotesmvvmkotlin:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.wiseassblog.jetpacknotesmvvmkotlin:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.wiseassblog.jetpacknotesmvvmkotlin:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #LinearLayoutCompat_android_gravity
@@ -25638,14 +28632,20 @@ public final class R {
     public static final int LinearLayoutCompat_android_gravity=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#orientation}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Should the layout be a column or a row?  Use "horizontal"
      * for a row, "vertical" for a column.  The default is
      * horizontal.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -25663,14 +28663,20 @@ public final class R {
     public static final int LinearLayoutCompat_android_orientation=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * When set to false, prevents the layout from aligning its children's
      * baselines. This attribute is particularly useful when the children
      * use different values for gravity. The default value is true.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -25681,14 +28687,20 @@ public final class R {
     public static final int LinearLayoutCompat_android_baselineAligned=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * When a linear layout is part of another layout that is baseline
      * aligned, it can specify which of its children to baseline align to
      * (that is, which child TextView).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -25698,9 +28710,12 @@ public final class R {
     public static final int LinearLayoutCompat_android_baselineAlignedChildIndex=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#weightSum}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Defines the maximum weight sum. If unspecified, the sum is computed
@@ -25708,6 +28723,9 @@ public final class R {
      * used for instance to give a single child 50% of the total available
      * space by giving it a layout_weight of 0.5 and setting the weightSum
      * to 1.0.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -25717,8 +28735,14 @@ public final class R {
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use as a vertical divider between buttons.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -25735,8 +28759,14 @@ public final class R {
     public static final int LinearLayoutCompat_divider=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Size of padding on either end of a divider.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -25754,14 +28784,20 @@ public final class R {
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * When set to true, all children with a weight will be considered having
      * the minimum size of the largest child. If false, all children are
      * measured normally.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -25772,8 +28808,14 @@ public final class R {
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Setting for which dividers to show.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -25917,8 +28959,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
      * attribute's value can be found in the {@link #ListPopupWindow} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of pixels by which the drop down should be offset horizontally.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -25936,8 +28984,14 @@ public final class R {
     public static final int ListPopupWindow_android_dropDownHorizontalOffset=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
      * attribute's value can be found in the {@link #ListPopupWindow} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of pixels by which the drop down should be offset vertically.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26020,8 +29074,13 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #MaterialButton_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #MaterialButton_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
      * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
@@ -26032,8 +29091,13 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_iconPadding com.wiseassblog.jetpacknotesmvvmkotlin:iconPadding}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_iconSize com.wiseassblog.jetpacknotesmvvmkotlin:iconSize}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #MaterialButton_iconTint com.wiseassblog.jetpacknotesmvvmkotlin:iconTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_iconTintMode com.wiseassblog.jetpacknotesmvvmkotlin:iconTintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #MaterialButton_iconTint com.wiseassblog.jetpacknotesmvvmkotlin:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.wiseassblog.jetpacknotesmvvmkotlin:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #MaterialButton_iconTint com.wiseassblog.jetpacknotesmvvmkotlin:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
      * <tr><td><code>{@link #MaterialButton_iconTintMode com.wiseassblog.jetpacknotesmvvmkotlin:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
@@ -26135,8 +29199,14 @@ public final class R {
     public static final int MaterialButton_android_insetBottom=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #MaterialButton} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the background.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26152,8 +29222,14 @@ public final class R {
     public static final int MaterialButton_backgroundTint=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #MaterialButton} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the background tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26167,6 +29243,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -26174,6 +29251,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -26185,6 +29264,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -26261,8 +29343,14 @@ public final class R {
     public static final int MaterialButton_iconSize=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#iconTint}
      * attribute's value can be found in the {@link #MaterialButton} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the icon.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26278,8 +29366,14 @@ public final class R {
     public static final int MaterialButton_iconTint=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MaterialButton} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the icon tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26293,6 +29387,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -26300,6 +29395,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the icon with those of
@@ -26311,6 +29408,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the icon.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -26405,6 +29505,7 @@ public final class R {
      * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.wiseassblog.jetpacknotesmvvmkotlin:chipStandaloneStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.wiseassblog.jetpacknotesmvvmkotlin:chipStyle}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.wiseassblog.jetpacknotesmvvmkotlin:colorAccent}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.wiseassblog.jetpacknotesmvvmkotlin:colorBackgroundFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.wiseassblog.jetpacknotesmvvmkotlin:colorPrimary}</code></td><td></td></tr>
@@ -26412,12 +29513,17 @@ public final class R {
      * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.wiseassblog.jetpacknotesmvvmkotlin:colorSecondary}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:editTextStyle}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.wiseassblog.jetpacknotesmvvmkotlin:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.wiseassblog.jetpacknotesmvvmkotlin:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.wiseassblog.jetpacknotesmvvmkotlin:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.wiseassblog.jetpacknotesmvvmkotlin:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.wiseassblog.jetpacknotesmvvmkotlin:colorSecondary}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.wiseassblog.jetpacknotesmvvmkotlin:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.wiseassblog.jetpacknotesmvvmkotlin:floatingActionButtonStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.wiseassblog.jetpacknotesmvvmkotlin:materialButtonStyle}</code></td><td></td></tr>
@@ -26546,13 +29652,19 @@ public final class R {
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorAccent}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Bright complement to the primary branding color. By default, this is the color applied
      * to framework controls (via colorControlActivated).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -26564,8 +29676,14 @@ public final class R {
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default color of background imagery for floating components, ex. dialogs, popups, and cards.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26581,13 +29699,19 @@ public final class R {
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The primary branding color for the app. By default, this is the color applied to the
      * action bar background.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -26599,13 +29723,19 @@ public final class R {
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Dark variant of the primary branding color. By default, this is the color applied to
      * the status bar (via statusBarColor) and navigation bar (via navigationBarColor).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -26628,8 +29758,14 @@ public final class R {
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
+=======
+     * <p>
+     * @attr description
+     * Default EditText style.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26944,8 +30080,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#enabled}
      * attribute's value can be found in the {@link #MenuGroup} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the items are enabled.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26960,8 +30102,14 @@ public final class R {
     public static final int MenuGroup_android_enabled=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#id}
      * attribute's value can be found in the {@link #MenuGroup} array.
+=======
+     * <p>
+     * @attr description
+     * The ID of the group.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26978,8 +30126,14 @@ public final class R {
     public static final int MenuGroup_android_id=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #MenuGroup} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the items are shown/visible.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -26994,13 +30148,19 @@ public final class R {
     public static final int MenuGroup_android_visible=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
      * attribute's value can be found in the {@link #MenuGroup} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The category applied to all items within this group.
      * (This will be or'ed with the orderInCategory attribute.)
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -27020,13 +30180,19 @@ public final class R {
     public static final int MenuGroup_android_menuCategory=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
      * attribute's value can be found in the {@link #MenuGroup} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The order within the category applied to all items within this group.
      * (This will be or'ed with the category attribute.)
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -27036,8 +30202,14 @@ public final class R {
     public static final int MenuGroup_android_orderInCategory=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
      * attribute's value can be found in the {@link #MenuGroup} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the items are capable of displaying a check mark.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27079,6 +30251,7 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #MenuItem_actionLayout com.wiseassblog.jetpacknotesmvvmkotlin:actionLayout}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_actionProviderClass com.wiseassblog.jetpacknotesmvvmkotlin:actionProviderClass}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_actionViewClass com.wiseassblog.jetpacknotesmvvmkotlin:actionViewClass}</code></td><td></td></tr>
@@ -27090,6 +30263,8 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_showAsAction com.wiseassblog.jetpacknotesmvvmkotlin:showAsAction}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_tooltipText com.wiseassblog.jetpacknotesmvvmkotlin:tooltipText}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #MenuItem_actionLayout com.wiseassblog.jetpacknotesmvvmkotlin:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
      * <tr><td><code>{@link #MenuItem_actionProviderClass com.wiseassblog.jetpacknotesmvvmkotlin:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
@@ -27102,6 +30277,9 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_numericModifiers com.wiseassblog.jetpacknotesmvvmkotlin:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
      * <tr><td><code>{@link #MenuItem_showAsAction com.wiseassblog.jetpacknotesmvvmkotlin:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
      * <tr><td><code>{@link #MenuItem_tooltipText com.wiseassblog.jetpacknotesmvvmkotlin:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #MenuItem_android_icon
@@ -27138,13 +30316,19 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#icon}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The icon associated with this item.  This icon will not always be shown, so
      * the title should be sufficient in describing this item.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -27157,8 +30341,14 @@ public final class R {
     public static final int MenuItem_android_icon=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#enabled}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the item is enabled.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27173,8 +30363,14 @@ public final class R {
     public static final int MenuItem_android_enabled=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#id}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * The ID of the item.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27191,13 +30387,19 @@ public final class R {
     public static final int MenuItem_android_id=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#checked}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Whether the item is checked.  Note that you must first have enabled checking with
      * the checkable attribute or else the check mark will not appear.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -27208,8 +30410,14 @@ public final class R {
     public static final int MenuItem_android_checked=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the item is shown/visible.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27224,13 +30432,19 @@ public final class R {
     public static final int MenuItem_android_visible=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The category applied to the item.
      * (This will be or'ed with the orderInCategory attribute.)
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one of the following constant values.</p>
@@ -27250,13 +30464,19 @@ public final class R {
     public static final int MenuItem_android_menuCategory=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The order within the category applied to the item.
      * (This will be or'ed with the category attribute.)
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -27266,8 +30486,14 @@ public final class R {
     public static final int MenuItem_android_orderInCategory=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#title}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * The title associated with the item.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27282,13 +30508,19 @@ public final class R {
     public static final int MenuItem_android_title=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#titleCondensed}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The condensed title associated with the item.  This is used in situations where the
      * normal title may be too long to be displayed.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27299,13 +30531,19 @@ public final class R {
     public static final int MenuItem_android_titleCondensed=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The alphabetic shortcut key.  This is the shortcut when using a keyboard
      * with alphabetic keys.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27316,13 +30554,19 @@ public final class R {
     public static final int MenuItem_android_alphabeticShortcut=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
      * keyboard.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27333,8 +30577,14 @@ public final class R {
     public static final int MenuItem_android_numericShortcut=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#checkable}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the item is capable of displaying a check mark.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27349,13 +30599,19 @@ public final class R {
     public static final int MenuItem_android_checkable=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#onClick}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Name of a method on the Context used to inflate the menu that will be
      * called when the item is clicked.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27366,14 +30622,20 @@ public final class R {
     public static final int MenuItem_android_onClick=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * An optional layout to be used as an action view.
      * See {@link android.view.MenuItem#setActionView(android.view.View)}
      * for more info.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -27386,15 +30648,21 @@ public final class R {
     public static final int MenuItem_actionLayout=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.
      * See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
      * for more info.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27405,14 +30673,20 @@ public final class R {
     public static final int MenuItem_actionProviderClass=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The name of an optional View class to instantiate and use as an
      * action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
      * for more info.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27423,13 +30697,19 @@ public final class R {
     public static final int MenuItem_actionViewClass=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The alphabetic modifier key. This is the modifier when using a keyboard
      * with alphabetic keys. The values should be kept in sync with KeyEvent
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -27451,8 +30731,14 @@ public final class R {
     public static final int MenuItem_alphabeticModifiers=16;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * The content description associated with the item.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27467,8 +30753,14 @@ public final class R {
     public static final int MenuItem_contentDescription=17;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the icon.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27484,8 +30776,14 @@ public final class R {
     public static final int MenuItem_iconTint=18;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the icon tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27499,6 +30797,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -27506,6 +30805,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the icon with those of
@@ -27517,6 +30818,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the icon.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -27525,13 +30829,19 @@ public final class R {
     public static final int MenuItem_iconTintMode=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The numeric modifier key. This is the modifier when using a numeric (e.g., 12-key)
      * keyboard. The values should be kept in sync with KeyEvent
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -27553,8 +30863,14 @@ public final class R {
     public static final int MenuItem_numericModifiers=20;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * How this item should display in the Action Bar, if present.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27568,12 +30884,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>always</td><td>2</td><td></td></tr>
      * <tr><td>collapseActionView</td><td>8</td><td></td></tr>
      * <tr><td>ifRoom</td><td>1</td><td></td></tr>
      * <tr><td>never</td><td>0</td><td></td></tr>
      * <tr><td>withText</td><td>4</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>always</td><td>2</td><td>Always show this item in an actionbar, even if it would override
      * the system's limits of how much stuff to put there. This may make
      * your action bar look bad on some screens. In most cases you should
@@ -27588,6 +30907,9 @@ public final class R {
      * Mutually exclusive with "ifRoom" and "always".</td></tr>
      * <tr><td>withText</td><td>4</td><td>When this item is shown as an action in the action bar, show a text
      * label with it even if it has an icon representation.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -27596,8 +30918,14 @@ public final class R {
     public static final int MenuItem_showAsAction=21;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
+=======
+     * <p>
+     * @attr description
+     * The tooltip text associated with the item.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27625,8 +30953,13 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #MenuView_preserveIconSpacing com.wiseassblog.jetpacknotesmvvmkotlin:preserveIconSpacing}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_subMenuArrow com.wiseassblog.jetpacknotesmvvmkotlin:subMenuArrow}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.wiseassblog.jetpacknotesmvvmkotlin:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.wiseassblog.jetpacknotesmvvmkotlin:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #MenuView_preserveIconSpacing com.wiseassblog.jetpacknotesmvvmkotlin:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
      * <tr><td><code>{@link #MenuView_subMenuArrow com.wiseassblog.jetpacknotesmvvmkotlin:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
@@ -27649,8 +30982,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default animations for the menu.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27667,8 +31006,14 @@ public final class R {
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default appearance of menu item text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27685,8 +31030,14 @@ public final class R {
     public static final int MenuView_android_itemTextAppearance=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default horizontal divider between rows of menu items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27703,8 +31054,14 @@ public final class R {
     public static final int MenuView_android_horizontalDivider=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default vertical divider between menu items.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27721,8 +31078,14 @@ public final class R {
     public static final int MenuView_android_verticalDivider=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default background for the menu header.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27742,8 +31105,14 @@ public final class R {
     public static final int MenuView_android_headerBackground=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default background for each menu item.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27763,8 +31132,14 @@ public final class R {
     public static final int MenuView_android_itemBackground=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#itemIconDisabledAlpha}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Default disabled icon alpha for each menu item that shows an icon.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27778,8 +31153,14 @@ public final class R {
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Whether space should be reserved in layout when an icon is missing.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -27794,8 +31175,14 @@ public final class R {
     public static final int MenuView_preserveIconSpacing=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable for the arrow icon indicating a particular item is a submenu.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -28622,7 +32009,11 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #NavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #NavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #NavigationView_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
 >>>>>>> dev
@@ -28634,7 +32025,11 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_itemTextAppearance com.wiseassblog.jetpacknotesmvvmkotlin:itemTextAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_itemTextColor com.wiseassblog.jetpacknotesmvvmkotlin:itemTextColor}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #NavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #NavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #NavigationView_menu com.wiseassblog.jetpacknotesmvvmkotlin:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
 >>>>>>> dev
@@ -28697,8 +32092,14 @@ public final class R {
     public static final int NavigationView_android_maxWidth=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -28800,8 +32201,14 @@ public final class R {
     public static final int NavigationView_itemTextColor=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
+=======
+     * <p>
+     * @attr description
+     * Menu resource to inflate to be shown in the toolbar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29068,7 +32475,11 @@ public final class R {
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #PopupWindow_overlapAnchor com.wiseassblog.jetpacknotesmvvmkotlin:overlapAnchor}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.wiseassblog.jetpacknotesmvvmkotlin:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #PopupWindow_overlapAnchor com.wiseassblog.jetpacknotesmvvmkotlin:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
 >>>>>>> dev
@@ -29109,8 +32520,14 @@ public final class R {
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
+=======
+     * <p>
+     * @attr description
+     * Whether the popup window should overlap its anchor view.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29131,7 +32548,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.wiseassblog.jetpacknotesmvvmkotlin:state_above_anchor}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.wiseassblog.jetpacknotesmvvmkotlin:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.wiseassblog.jetpacknotesmvvmkotlin:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
 >>>>>>> dev
@@ -29143,8 +32564,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
+=======
+     * <p>
+     * @attr description
+     * State identifier indicating the popup will be above the anchor.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29272,8 +32699,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.wiseassblog.jetpacknotesmvvmkotlin:paddingBottomNoButtons}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.wiseassblog.jetpacknotesmvvmkotlin:paddingTopNoTitle}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.wiseassblog.jetpacknotesmvvmkotlin:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.wiseassblog.jetpacknotesmvvmkotlin:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.wiseassblog.jetpacknotesmvvmkotlin:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
      * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.wiseassblog.jetpacknotesmvvmkotlin:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
@@ -29287,8 +32719,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
+=======
+     * <p>
+     * @attr description
+     * Bottom padding to use when no buttons are present.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29306,8 +32744,14 @@ public final class R {
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
+=======
+     * <p>
+     * @attr description
+     * Top padding to use when no title is present.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29339,7 +32783,11 @@ public final class R {
      * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.wiseassblog.jetpacknotesmvvmkotlin:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.wiseassblog.jetpacknotesmvvmkotlin:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #RecyclerView_layoutManager com.wiseassblog.jetpacknotesmvvmkotlin:layoutManager}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.wiseassblog.jetpacknotesmvvmkotlin:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #RecyclerView_layoutManager com.wiseassblog.jetpacknotesmvvmkotlin:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
 >>>>>>> dev
@@ -29470,9 +32918,12 @@ public final class R {
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Class name of the Layout Manager to be used.
@@ -29484,6 +32935,9 @@ public final class R {
      * If the name starts with a '.', application package is prefixed.
      * Else, if the name contains a '.', the classname is assumed to be a full class name.
      * Else, the recycler view package naandroidx.appcompat.widgetdget) is prefixed.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -29589,6 +33043,7 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #SearchView_closeIcon com.wiseassblog.jetpacknotesmvvmkotlin:closeIcon}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_commitIcon com.wiseassblog.jetpacknotesmvvmkotlin:commitIcon}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_defaultQueryHint com.wiseassblog.jetpacknotesmvvmkotlin:defaultQueryHint}</code></td><td></td></tr>
@@ -29603,6 +33058,8 @@ public final class R {
      * <tr><td><code>{@link #SearchView_suggestionRowLayout com.wiseassblog.jetpacknotesmvvmkotlin:suggestionRowLayout}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_voiceIcon com.wiseassblog.jetpacknotesmvvmkotlin:voiceIcon}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #SearchView_closeIcon com.wiseassblog.jetpacknotesmvvmkotlin:closeIcon}</code></td><td>Close button icon</td></tr>
      * <tr><td><code>{@link #SearchView_commitIcon com.wiseassblog.jetpacknotesmvvmkotlin:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
      * <tr><td><code>{@link #SearchView_defaultQueryHint com.wiseassblog.jetpacknotesmvvmkotlin:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
@@ -29617,6 +33074,9 @@ public final class R {
      * <tr><td><code>{@link #SearchView_submitBackground com.wiseassblog.jetpacknotesmvvmkotlin:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
      * <tr><td><code>{@link #SearchView_suggestionRowLayout com.wiseassblog.jetpacknotesmvvmkotlin:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
      * <tr><td><code>{@link #SearchView_voiceIcon com.wiseassblog.jetpacknotesmvvmkotlin:voiceIcon}</code></td><td>Voice button icon</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #SearchView_android_focusable
@@ -29664,8 +33124,14 @@ public final class R {
     public static final int SearchView_android_focusable=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * An optional maximum width of the SearchView.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29683,8 +33149,14 @@ public final class R {
     public static final int SearchView_android_maxWidth=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#inputType}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * The input type to set on the query text field.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29736,8 +33208,14 @@ public final class R {
     public static final int SearchView_android_inputType=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * The IME options to set on the query text field.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29774,8 +33252,14 @@ public final class R {
     public static final int SearchView_android_imeOptions=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Close button icon
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29792,8 +33276,14 @@ public final class R {
     public static final int SearchView_closeIcon=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Commit icon shown in the query suggestion row
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29810,13 +33300,19 @@ public final class R {
     public static final int SearchView_commitIcon=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -29827,8 +33323,14 @@ public final class R {
     public static final int SearchView_defaultQueryHint=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Go button icon
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29845,13 +33347,19 @@ public final class R {
     public static final int SearchView_goIcon=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * The default state of the SearchView. If true, it will be iconified when not in
      * use and expanded when clicked.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -29862,8 +33370,14 @@ public final class R {
     public static final int SearchView_iconifiedByDefault=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * The layout to use for the search view.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29880,8 +33394,14 @@ public final class R {
     public static final int SearchView_layout=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Background for the section containing the search query
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29898,8 +33418,14 @@ public final class R {
     public static final int SearchView_queryBackground=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * An optional user-defined query hint string to be displayed in the empty query field.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29914,8 +33440,14 @@ public final class R {
     public static final int SearchView_queryHint=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Search icon displayed as a text field hint
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29932,8 +33464,14 @@ public final class R {
     public static final int SearchView_searchHintIcon=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Search icon
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29950,8 +33488,14 @@ public final class R {
     public static final int SearchView_searchIcon=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Background for the section containing the action (e.g. voice search)
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29968,8 +33512,14 @@ public final class R {
     public static final int SearchView_submitBackground=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Layout for query suggestion rows
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -29986,8 +33536,14 @@ public final class R {
     public static final int SearchView_suggestionRowLayout=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
+=======
+     * <p>
+     * @attr description
+     * Voice button icon
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30127,7 +33683,11 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #SnackbarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #SnackbarLayout_elevation com.wiseassblog.jetpacknotesmvvmkotlin:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
 >>>>>>> dev
@@ -30155,8 +33715,14 @@ public final class R {
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
+=======
+     * <p>
+     * @attr description
+     * Elevation for the action bar itself
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30197,7 +33763,12 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #Spinner_popupTheme com.wiseassblog.jetpacknotesmvvmkotlin:popupTheme}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #Spinner_popupTheme com.wiseassblog.jetpacknotesmvvmkotlin:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * shown by widgets in the action bar.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #Spinner_popupTheme com.wiseassblog.jetpacknotesmvvmkotlin:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
@@ -30215,8 +33786,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#entries}
      * attribute's value can be found in the {@link #Spinner} array.
+=======
+     * <p>
+     * @attr description
+     * Reference to an array resource that will populate the Spinner.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30233,8 +33810,14 @@ public final class R {
     public static final int Spinner_android_entries=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
      * attribute's value can be found in the {@link #Spinner} array.
+=======
+     * <p>
+     * @attr description
+     * Background drawable to use for the dropdown in spinnerMode="dropdown".
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30254,8 +33837,14 @@ public final class R {
     public static final int Spinner_android_popupBackground=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#prompt}
      * attribute's value can be found in the {@link #Spinner} array.
+=======
+     * <p>
+     * @attr description
+     * The prompt to display when the spinner's dialog is shown.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30272,8 +33861,14 @@ public final class R {
     public static final int Spinner_android_prompt=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
      * attribute's value can be found in the {@link #Spinner} array.
+=======
+     * <p>
+     * @attr description
+     * Width of the dropdown in spinnerMode="dropdown".
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30301,8 +33896,14 @@ public final class R {
     public static final int Spinner_android_dropDownWidth=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
+=======
+     * <p>
+     * @attr description
+     * Theme to use for the drop-down or dialog popup window.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30384,14 +33985,20 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#dither}
      * attribute's value can be found in the {@link #StateListDrawable} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Enables or disables dithering of the bitmap if the bitmap does not have the
      * same pixel configuration as the screen (for instance: a ARGB 8888 bitmap with
      * an RGB 565 screen).
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -30402,8 +34009,14 @@ public final class R {
     public static final int StateListDrawable_android_dither=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#visible}
      * attribute's value can be found in the {@link #StateListDrawable} array.
+=======
+     * <p>
+     * @attr description
+     * Indicates whether the drawable should be initially visible.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30418,9 +34031,12 @@ public final class R {
     public static final int StateListDrawable_android_visible=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#variablePadding}
      * attribute's value can be found in the {@link #StateListDrawable} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * If true, allows the drawable's padding to change based on the
@@ -30429,6 +34045,9 @@ public final class R {
      * Enabling this feature requires that the owner of the drawable
      * deal with performing layout when the state changes, which is
      * often not supported.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -30439,15 +34058,21 @@ public final class R {
     public static final int StateListDrawable_android_variablePadding=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#constantSize}
      * attribute's value can be found in the {@link #StateListDrawable} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * If true, the drawable's reported internal size will remain
      * constant as the state changes; the size is the maximum of all
      * of the states.  If false, the size will vary based on the
      * current state.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -30458,8 +34083,14 @@ public final class R {
     public static final int StateListDrawable_android_constantSize=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#enterFadeDuration}
      * attribute's value can be found in the {@link #StateListDrawable} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of time (in milliseconds) to fade in a new state drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30473,8 +34104,14 @@ public final class R {
     public static final int StateListDrawable_android_enterFadeDuration=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#exitFadeDuration}
      * attribute's value can be found in the {@link #StateListDrawable} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of time (in milliseconds) to fade out an old state drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30502,13 +34139,19 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#drawable}
      * attribute's value can be found in the {@link #StateListDrawableItem} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a drawable resource to use for the state. If not
      * given, the drawable must be defined by the first child tag.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -30556,6 +34199,7 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #SwitchCompat_showText com.wiseassblog.jetpacknotesmvvmkotlin:showText}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_splitTrack com.wiseassblog.jetpacknotesmvvmkotlin:splitTrack}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.wiseassblog.jetpacknotesmvvmkotlin:switchMinWidth}</code></td><td></td></tr>
@@ -30568,6 +34212,8 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_trackTint com.wiseassblog.jetpacknotesmvvmkotlin:trackTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_trackTintMode com.wiseassblog.jetpacknotesmvvmkotlin:trackTintMode}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #SwitchCompat_showText com.wiseassblog.jetpacknotesmvvmkotlin:showText}</code></td><td>Whether to draw on/off text.</td></tr>
      * <tr><td><code>{@link #SwitchCompat_splitTrack com.wiseassblog.jetpacknotesmvvmkotlin:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
      * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.wiseassblog.jetpacknotesmvvmkotlin:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
@@ -30579,6 +34225,9 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_track com.wiseassblog.jetpacknotesmvvmkotlin:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
      * <tr><td><code>{@link #SwitchCompat_trackTint com.wiseassblog.jetpacknotesmvvmkotlin:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
      * <tr><td><code>{@link #SwitchCompat_trackTintMode com.wiseassblog.jetpacknotesmvvmkotlin:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #SwitchCompat_android_textOn
@@ -30604,8 +34253,14 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#textOn}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Text to use when the switch is in the checked/"on" state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30620,8 +34275,14 @@ public final class R {
     public static final int SwitchCompat_android_textOn=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#textOff}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Text to use when the switch is in the unchecked/"off" state.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30636,8 +34297,14 @@ public final class R {
     public static final int SwitchCompat_android_textOff=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#thumb}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use as the "thumb" that switches back and forth.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30654,8 +34321,14 @@ public final class R {
     public static final int SwitchCompat_android_thumb=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Whether to draw on/off text.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30670,8 +34343,14 @@ public final class R {
     public static final int SwitchCompat_showText=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Whether to split the track and leave a gap for the thumb drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30686,8 +34365,14 @@ public final class R {
     public static final int SwitchCompat_splitTrack=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Minimum width for the switch component
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30705,8 +34390,14 @@ public final class R {
     public static final int SwitchCompat_switchMinWidth=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Minimum space between the switch and caption text
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30724,8 +34415,14 @@ public final class R {
     public static final int SwitchCompat_switchPadding=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * TextAppearance style for text displayed on the switch thumb.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30742,8 +34439,14 @@ public final class R {
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Amount of padding on either side of text within the switch thumb.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30761,8 +34464,14 @@ public final class R {
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the thumb drawable.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30778,8 +34487,14 @@ public final class R {
     public static final int SwitchCompat_thumbTint=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the thumb tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30793,6 +34508,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -30800,6 +34516,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -30811,6 +34529,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -30819,8 +34540,14 @@ public final class R {
     public static final int SwitchCompat_thumbTintMode=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Drawable to use as the "track" that the switch thumb slides within.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30837,8 +34564,14 @@ public final class R {
     public static final int SwitchCompat_track=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the track.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30854,8 +34587,14 @@ public final class R {
     public static final int SwitchCompat_trackTint=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the track tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -30869,6 +34608,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -30876,6 +34616,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and drawable color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -30887,6 +34629,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -31354,16 +35099,22 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #TextAppearance_fontFamily com.wiseassblog.jetpacknotesmvvmkotlin:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.wiseassblog.jetpacknotesmvvmkotlin:fontVariationSettings}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_textAllCaps com.wiseassblog.jetpacknotesmvvmkotlin:textAllCaps}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_textLocale com.wiseassblog.jetpacknotesmvvmkotlin:textLocale}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #TextAppearance_fontFamily com.wiseassblog.jetpacknotesmvvmkotlin:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
      * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.wiseassblog.jetpacknotesmvvmkotlin:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
      * <tr><td><code>{@link #TextAppearance_textAllCaps com.wiseassblog.jetpacknotesmvvmkotlin:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * <tr><td><code>{@link #TextAppearance_textLocale com.wiseassblog.jetpacknotesmvvmkotlin:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #TextAppearance_android_textSize
@@ -31564,8 +35315,14 @@ public final class R {
     public static final int TextAppearance_android_textFontWeight=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
+=======
+     * <p>
+     * @attr description
+     * The attribute for the font family.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -31580,8 +35337,14 @@ public final class R {
     public static final int TextAppearance_fontFamily=12;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #TextAppearance} array.
+=======
+     * <p>
+     * @attr description
+     * OpenType font variation settings, available aftear api 26.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -31596,8 +35359,14 @@ public final class R {
     public static final int TextAppearance_fontVariationSettings=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
+=======
+     * <p>
+     * @attr description
+     * Present the text in ALL CAPS. This may use a small-caps form when available.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -31616,9 +35385,12 @@ public final class R {
     public static final int TextAppearance_textAllCaps=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#textLocale}
      * attribute's value can be found in the {@link #TextAppearance} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Set the textLocale by a comma-separated language tag string,
@@ -31626,6 +35398,9 @@ public final class R {
      * Before API 24, only the first language tag is used. Starting from API 24,
      * the string will be converted into a {@link android.os.LocaleList} and then used by
      * {@link android.widget.TextView}
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -32104,6 +35879,7 @@ public final class R {
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_buttonGravity com.wiseassblog.jetpacknotesmvvmkotlin:buttonGravity}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #Toolbar_collapseContentDescription com.wiseassblog.jetpacknotesmvvmkotlin:collapseContentDescription}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_collapseIcon com.wiseassblog.jetpacknotesmvvmkotlin:collapseIcon}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_contentInsetEnd com.wiseassblog.jetpacknotesmvvmkotlin:contentInsetEnd}</code></td><td></td></tr>
@@ -32132,6 +35908,8 @@ public final class R {
      * <tr><td><code>{@link #Toolbar_titleTextAppearance com.wiseassblog.jetpacknotesmvvmkotlin:titleTextAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_titleTextColor com.wiseassblog.jetpacknotesmvvmkotlin:titleTextColor}</code></td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td><code>{@link #Toolbar_collapseContentDescription com.wiseassblog.jetpacknotesmvvmkotlin:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
      * <tr><td><code>{@link #Toolbar_collapseIcon com.wiseassblog.jetpacknotesmvvmkotlin:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
      * <tr><td><code>{@link #Toolbar_contentInsetEnd com.wiseassblog.jetpacknotesmvvmkotlin:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
@@ -32166,6 +35944,9 @@ public final class R {
      * <tr><td><code>{@link #Toolbar_titleMargins com.wiseassblog.jetpacknotesmvvmkotlin:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
      * <tr><td><code>{@link #Toolbar_titleTextAppearance com.wiseassblog.jetpacknotesmvvmkotlin:titleTextAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_titleTextColor com.wiseassblog.jetpacknotesmvvmkotlin:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      * @see #Toolbar_android_gravity
@@ -32200,6 +35981,10 @@ public final class R {
      * @see #Toolbar_titleTextColor
      */
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    @Deprecated
+>>>>>>> dev
 =======
     @Deprecated
 >>>>>>> dev
@@ -32266,9 +36051,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>bottom</td><td>50</td><td></td></tr>
      * <tr><td>center_vertical</td><td>10</td><td></td></tr>
      * <tr><td>top</td><td>30</td><td></td></tr>
+=======
+     * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
+     * <tr><td>center_vertical</td><td>10</td><td>Place object in the vertical center of its container, not changing its size.</td></tr>
+     * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td>bottom</td><td>50</td><td>Push object to the bottom of its container, not changing its size.</td></tr>
      * <tr><td>center_vertical</td><td>10</td><td>Place object in the vertical center of its container, not changing its size.</td></tr>
@@ -32281,8 +36072,14 @@ public final class R {
     public static final int Toolbar_buttonGravity=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * Text to set as the content description for the collapse button.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32297,8 +36094,14 @@ public final class R {
     public static final int Toolbar_collapseContentDescription=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * Icon drawable to use for the collapse button.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32315,13 +36118,19 @@ public final class R {
     public static final int Toolbar_collapseIcon=4;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32335,13 +36144,19 @@ public final class R {
     public static final int Toolbar_contentInsetEnd=5;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar when actions from a menu
      * are present. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32355,13 +36170,19 @@ public final class R {
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32375,13 +36196,19 @@ public final class R {
     public static final int Toolbar_contentInsetLeft=7;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32395,13 +36222,19 @@ public final class R {
     public static final int Toolbar_contentInsetRight=8;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar. Navigation buttons and
      * menu views are excepted. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32415,13 +36248,19 @@ public final class R {
     public static final int Toolbar_contentInsetStart=9;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button. Only valid for some themes and configurations.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32435,13 +36274,19 @@ public final class R {
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Drawable to set as the logo that appears at the starting side of
      * the Toolbar, just after the navigation button.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -32454,13 +36299,19 @@ public final class R {
     public static final int Toolbar_logo=11;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * A content description string to describe the appearance of the
      * associated logo image.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -32484,8 +36335,14 @@ public final class R {
     public static final int Toolbar_maxButtonHeight=13;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#menu}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * Menu resource to inflate to be shown in the toolbar
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32502,13 +36359,19 @@ public final class R {
     public static final int Toolbar_menu=14;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Text to set as the content description for the navigation button
      * located at the start of the toolbar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -32519,13 +36382,19 @@ public final class R {
     public static final int Toolbar_navigationContentDescription=15;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Icon drawable to use for the navigation button located at
      * the start of the toolbar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -32538,13 +36407,19 @@ public final class R {
     public static final int Toolbar_navigationIcon=16;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Reference to a theme that should be used to inflate popups
      * shown by widgets in the toolbar.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -32557,8 +36432,14 @@ public final class R {
     public static final int Toolbar_popupTheme=17;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * Specifies subtitle text used for navigationMode="normal"
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32585,8 +36466,14 @@ public final class R {
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * A color to apply to the subtitle string.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32612,13 +36499,19 @@ public final class R {
     public static final int Toolbar_title=21;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies extra space on the left, start, right and end sides
      * of the toolbar's title. Margin values should be positive.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32632,14 +36525,20 @@ public final class R {
     public static final int Toolbar_titleMargin=22;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies extra space on the bottom side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
      * attribute takes precedence. Margin values should be positive.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32653,14 +36552,20 @@ public final class R {
     public static final int Toolbar_titleMarginBottom=23;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies extra space on the end side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
      * attribute takes precedence. Margin values should be positive.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32674,14 +36579,20 @@ public final class R {
     public static final int Toolbar_titleMarginEnd=24;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies extra space on the start side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
      * attribute takes precedence. Margin values should be positive.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32695,14 +36606,20 @@ public final class R {
     public static final int Toolbar_titleMarginStart=25;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies extra space on the top side of the toolbar's title.
      * If both this attribute and titleMargin are specified, then this
      * attribute takes precedence. Margin values should be positive.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -32716,8 +36633,14 @@ public final class R {
     public static final int Toolbar_titleMarginTop=26;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * {@deprecated Use titleMargin}
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -32733,6 +36656,10 @@ public final class R {
      * @attr name com.wiseassblog.jetpacknotesmvvmkotlin:titleMargins
      */
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    @Deprecated
+>>>>>>> dev
 =======
     @Deprecated
 >>>>>>> dev
@@ -32751,8 +36678,14 @@ public final class R {
     public static final int Toolbar_titleTextAppearance=28;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
+=======
+     * <p>
+     * @attr description
+     * A color to apply to the title string.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33236,9 +37169,15 @@ public final class R {
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #View_paddingEnd com.wiseassblog.jetpacknotesmvvmkotlin:paddingEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_paddingStart com.wiseassblog.jetpacknotesmvvmkotlin:paddingStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_theme com.wiseassblog.jetpacknotesmvvmkotlin:theme}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #View_paddingEnd com.wiseassblog.jetpacknotesmvvmkotlin:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.wiseassblog.jetpacknotesmvvmkotlin:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.wiseassblog.jetpacknotesmvvmkotlin:theme}</code></td><td>Deprecated.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #View_paddingEnd com.wiseassblog.jetpacknotesmvvmkotlin:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
      * <tr><td><code>{@link #View_paddingStart com.wiseassblog.jetpacknotesmvvmkotlin:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
@@ -33257,14 +37196,20 @@ public final class R {
     };
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Specifies a theme override for a view. When a theme override is set, the
      * view will be inflated using a {@link android.content.Context} themed with
      * the specified resource.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -33277,9 +37222,12 @@ public final class R {
     public static final int View_android_theme=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#focusable}
      * attribute's value can be found in the {@link #View} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Boolean that controls whether a view can take focus.  By default the user can not
@@ -33288,6 +37236,9 @@ public final class R {
      * directly calling {@link android.view.View#requestFocus}, which will
      * always request focus regardless of this view.  It only impacts where
      * focus navigation will try to move focus.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -33306,8 +37257,14 @@ public final class R {
     public static final int View_android_focusable=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
+=======
+     * <p>
+     * @attr description
+     * Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33325,8 +37282,14 @@ public final class R {
     public static final int View_paddingEnd=2;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
+=======
+     * <p>
+     * @attr description
+     * Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33344,8 +37307,14 @@ public final class R {
     public static final int View_paddingStart=3;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
+=======
+     * <p>
+     * @attr description
+     * Deprecated.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33369,8 +37338,13 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td></td></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td></td></tr>
+=======
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+>>>>>>> dev
 =======
      * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.wiseassblog.jetpacknotesmvvmkotlin:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
@@ -33400,8 +37374,14 @@ public final class R {
     public static final int ViewBackgroundHelper_android_background=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+=======
+     * <p>
+     * @attr description
+     * Tint to apply to the background.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33417,8 +37397,14 @@ public final class R {
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link com.wiseassblog.jetpacknotesmvvmkotlin.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+=======
+     * <p>
+     * @attr description
+     * Blending mode used to apply the background tint.
+>>>>>>> dev
 =======
      * <p>
      * @attr description
@@ -33432,6 +37418,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <tr><td>add</td><td>10</td><td></td></tr>
      * <tr><td>multiply</td><td>e</td><td></td></tr>
      * <tr><td>screen</td><td>f</td><td></td></tr>
@@ -33439,6 +37426,8 @@ public final class R {
      * <tr><td>src_in</td><td>5</td><td></td></tr>
      * <tr><td>src_over</td><td>3</td><td></td></tr>
 =======
+=======
+>>>>>>> dev
      * <tr><td>add</td><td>10</td><td>Combines the tint and icon color and alpha channels, clamping the
      * result to valid color values. Saturate(S + D)</td></tr>
      * <tr><td>multiply</td><td>e</td><td>Multiplies the color and alpha channels of the drawable with those of
@@ -33450,6 +37439,9 @@ public final class R {
      * color channels are thrown out. [Sa * Da, Sc * Da]</td></tr>
      * <tr><td>src_over</td><td>3</td><td>The tint is drawn on top of the drawable.
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      * </table>
      *
@@ -33488,14 +37480,20 @@ public final class R {
     public static final int ViewStubCompat_android_id=0;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#layout}
      * attribute's value can be found in the {@link #ViewStubCompat} array.
 =======
+=======
+>>>>>>> dev
      * <p>
      * @attr description
      * Supply an identifier for the layout resource to inflate when the ViewStub
      * becomes visible or when forced to do so. The layout resource must be a
      * valid reference to a layout.
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
      *
      * <p>May be a reference to another resource, in the form
@@ -33508,8 +37506,14 @@ public final class R {
     public static final int ViewStubCompat_android_layout=1;
     /**
 <<<<<<< HEAD
+<<<<<<< HEAD
      * <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
      * attribute's value can be found in the {@link #ViewStubCompat} array.
+=======
+     * <p>
+     * @attr description
+     * Overrides the id of the inflated View with this value.
+>>>>>>> dev
 =======
      * <p>
      * @attr description

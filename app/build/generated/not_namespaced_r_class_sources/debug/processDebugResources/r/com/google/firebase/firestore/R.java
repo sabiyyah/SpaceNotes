@@ -129,6 +129,7 @@ public final class R {
         public static final int action_divider = 0x7f080035;
         public static final int action_image = 0x7f080036;
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int action_text = 0x7f080042;
         public static final int actions = 0x7f080043;
         public static final int adjust_height = 0x7f080046;
@@ -170,6 +171,8 @@ public final class R {
         public static final int top = 0x7f080147;
         public static final int wide = 0x7f08015a;
 =======
+=======
+>>>>>>> dev
         public static final int action_text = 0x7f08003f;
         public static final int actions = 0x7f080040;
         public static final int adjust_height = 0x7f080043;
@@ -210,6 +213,9 @@ public final class R {
         public static final int title = 0x7f08013b;
         public static final int top = 0x7f080140;
         public static final int wide = 0x7f080153;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
     }
     public static final class integer {

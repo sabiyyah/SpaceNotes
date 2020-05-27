@@ -82,6 +82,7 @@ public final class R {
         public static final int action_divider = 0x7f080035;
         public static final int action_image = 0x7f080036;
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int action_text = 0x7f080042;
         public static final int actions = 0x7f080043;
         public static final int async = 0x7f080050;
@@ -118,6 +119,8 @@ public final class R {
         public static final int transition_scene_layoutid_cache = 0x7f08014f;
         public static final int transition_transform = 0x7f080150;
 =======
+=======
+>>>>>>> dev
         public static final int action_text = 0x7f08003f;
         public static final int actions = 0x7f080040;
         public static final int async = 0x7f08004d;
@@ -153,6 +156,9 @@ public final class R {
         public static final int transition_position = 0x7f080147;
         public static final int transition_scene_layoutid_cache = 0x7f080148;
         public static final int transition_transform = 0x7f080149;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
     }
     public static final class integer {

@@ -1349,10 +1349,14 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 <<<<<<< HEAD
+<<<<<<< HEAD
 id action_noteDetailView2_to_noteListView2
 id action_noteDetailView_to_noteListView2
 id action_noteListView2_to_loginActivity
 id action_noteListView2_to_noteDetailView2
+=======
+id action_noteDetailView_to_noteListView2
+>>>>>>> dev
 =======
 id action_noteDetailView_to_noteListView2
 >>>>>>> dev
@@ -1493,7 +1497,10 @@ id linear
 id listMode
 id list_item
 <<<<<<< HEAD
+<<<<<<< HEAD
 id loginActivity
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
 id loginView
@@ -1507,7 +1514,10 @@ id multiply
 id nav_controller_view_tag
 id nav_graph
 <<<<<<< HEAD
+<<<<<<< HEAD
 id nav_graph_demo
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
 id nav_host_fragment_container
@@ -1517,9 +1527,13 @@ id none
 id normal
 id noteDetailView
 <<<<<<< HEAD
+<<<<<<< HEAD
 id noteDetailView2
 id noteListView
 id noteListView2
+=======
+id noteListView
+>>>>>>> dev
 =======
 id noteListView
 >>>>>>> dev
@@ -1711,7 +1725,10 @@ layout abc_tooltip
 layout activity_login
 layout activity_note
 <<<<<<< HEAD
+<<<<<<< HEAD
 layout activity_note_demo
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
 layout custom_dialog
@@ -1731,6 +1748,10 @@ layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_login
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+layout fragment_login_demo
+>>>>>>> dev
 =======
 layout fragment_login_demo
 >>>>>>> dev
@@ -1754,7 +1775,10 @@ mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 navigation nav_graph
 <<<<<<< HEAD
+<<<<<<< HEAD
 navigation nav_graph_demo
+=======
+>>>>>>> dev
 =======
 >>>>>>> dev
 string abc_action_bar_home_description

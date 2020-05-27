@@ -700,6 +700,7 @@ public final class R {
         public static final int action_mode_bar_stub = 0x7f08003a;
         public static final int action_mode_close_button = 0x7f08003b;
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int action_text = 0x7f080042;
         public static final int actions = 0x7f080043;
         public static final int activity_chooser_view_content = 0x7f080044;
@@ -794,6 +795,8 @@ public final class R {
         public static final int up = 0x7f080155;
         public static final int wrap_content = 0x7f08015d;
 =======
+=======
+>>>>>>> dev
         public static final int action_text = 0x7f08003f;
         public static final int actions = 0x7f080040;
         public static final int activity_chooser_view_content = 0x7f080041;
@@ -887,6 +890,9 @@ public final class R {
         public static final int uniform = 0x7f08014c;
         public static final int up = 0x7f08014e;
         public static final int wrap_content = 0x7f080156;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
     }
     public static final class integer {
@@ -941,7 +947,11 @@ public final class R {
         public static final int abc_select_dialog_material = 0x7f0b001a;
         public static final int abc_tooltip = 0x7f0b001b;
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int custom_dialog = 0x7f0b001f;
+=======
+        public static final int custom_dialog = 0x7f0b001e;
+>>>>>>> dev
 =======
         public static final int custom_dialog = 0x7f0b001e;
 >>>>>>> dev

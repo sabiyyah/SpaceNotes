@@ -7,7 +7,11 @@ import kotlin.String
 import kotlin.jvm.JvmStatic
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 data class NoteDetailViewArgs(val noteId: String) : NavArgs {
+=======
+data class NoteDetailViewArgs(val noteId: String = "\"\"") : NavArgs {
+>>>>>>> dev
 =======
 data class NoteDetailViewArgs(val noteId: String = "\"\"") : NavArgs {
 >>>>>>> dev
@@ -29,7 +33,11 @@ data class NoteDetailViewArgs(val noteId: String = "\"\"") : NavArgs {
                 }
             } else {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 throw IllegalArgumentException("Required argument \"noteId\" is missing and does not have an android:defaultValue")
+=======
+                __noteId = "\"\""
+>>>>>>> dev
 =======
                 __noteId = "\"\""
 >>>>>>> dev

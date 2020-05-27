@@ -115,6 +115,7 @@ public final class R {
         public static final int action_divider = 0x7f080035;
         public static final int action_image = 0x7f080036;
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int action_text = 0x7f080042;
         public static final int actions = 0x7f080043;
         public static final int async = 0x7f080050;
@@ -147,6 +148,8 @@ public final class R {
         public static final int time = 0x7f080141;
         public static final int title = 0x7f080142;
 =======
+=======
+>>>>>>> dev
         public static final int action_text = 0x7f08003f;
         public static final int actions = 0x7f080040;
         public static final int async = 0x7f08004d;
@@ -178,6 +181,9 @@ public final class R {
         public static final int text2 = 0x7f080132;
         public static final int time = 0x7f08013a;
         public static final int title = 0x7f08013b;
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
     }
     public static final class integer {
@@ -189,7 +195,11 @@ public final class R {
         private layout() {}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         public static final int custom_dialog = 0x7f0b001f;
+=======
+        public static final int custom_dialog = 0x7f0b001e;
+>>>>>>> dev
 =======
         public static final int custom_dialog = 0x7f0b001e;
 >>>>>>> dev
