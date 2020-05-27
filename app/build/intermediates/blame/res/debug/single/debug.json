@@ -256,10 +256,13 @@
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/5ad26af28a0b8008b03bfa7fb7b101ca/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/layout_activity_note_demo.xml.flat",
         "source": "/Users/sabi/SoftwareDev/SpaceNotes/app/src/main/res/layout/activity_note_demo.xml"
     },
     {
+=======
+>>>>>>> dev
         "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/5ad26af28a0b8008b03bfa7fb7b101ca/res/drawable/abc_text_cursor_material.xml"
     },
@@ -768,10 +771,13 @@
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/feaaea7e88df9e5fdfd3f4f631478d3e/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/navigation_nav_graph_demo.xml.flat",
         "source": "/Users/sabi/SoftwareDev/SpaceNotes/app/src/main/res/navigation/nav_graph_demo.xml"
     },
     {
+=======
+>>>>>>> dev
         "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/5ad26af28a0b8008b03bfa7fb7b101ca/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1332,6 +1338,13 @@
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/5ad26af28a0b8008b03bfa7fb7b101ca/res/color-v23/abc_tint_spinner.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/layout_fragment_login_demo.xml.flat",
+        "source": "/Users/sabi/SoftwareDev/SpaceNotes/app/src/main/res/layout/fragment_login_demo.xml"
+    },
+    {
+>>>>>>> dev
         "merged": "/Users/sabi/SoftwareDev/SpaceNotes/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/sabi/.gradle/caches/transforms-2/files-2.1/5ad26af28a0b8008b03bfa7fb7b101ca/res/layout/select_dialog_singlechoice_material.xml"
     },

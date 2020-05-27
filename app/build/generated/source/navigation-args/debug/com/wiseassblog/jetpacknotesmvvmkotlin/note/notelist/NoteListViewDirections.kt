@@ -8,8 +8,14 @@ import kotlin.Int
 import kotlin.String
 
 class NoteListViewDirections private constructor() {
+<<<<<<< HEAD
     private data class ActionNoteListView2ToNoteDetailView2(val noteId: String) : NavDirections {
         override fun getActionId(): Int = R.id.action_noteListView2_to_noteDetailView2
+=======
+    private data class ActionNoteListViewToNoteDetailView(val noteId: String = "\"\"") :
+            NavDirections {
+        override fun getActionId(): Int = R.id.action_noteListView_to_noteDetailView
+>>>>>>> dev
 
         override fun getArguments(): Bundle {
             val result = Bundle()
@@ -19,10 +25,18 @@ class NoteListViewDirections private constructor() {
     }
 
     companion object {
+<<<<<<< HEAD
         fun actionNoteListView2ToLoginActivity(): NavDirections =
                 ActionOnlyNavDirections(R.id.action_noteListView2_to_loginActivity)
 
         fun actionNoteListView2ToNoteDetailView2(noteId: String): NavDirections =
                 ActionNoteListView2ToNoteDetailView2(noteId)
+=======
+        fun actionNoteListViewToNoteDetailView(noteId: String = "\"\""): NavDirections =
+                ActionNoteListViewToNoteDetailView(noteId)
+
+        fun actionNoteListViewToLoginActivity(): NavDirections =
+                ActionOnlyNavDirections(R.id.action_noteListView_to_loginActivity)
+>>>>>>> dev
     }
 }

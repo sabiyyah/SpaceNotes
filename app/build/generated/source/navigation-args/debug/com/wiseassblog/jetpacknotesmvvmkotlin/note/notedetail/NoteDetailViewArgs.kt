@@ -6,7 +6,11 @@ import java.lang.IllegalArgumentException
 import kotlin.String
 import kotlin.jvm.JvmStatic
 
+<<<<<<< HEAD
 data class NoteDetailViewArgs(val noteId: String) : NavArgs {
+=======
+data class NoteDetailViewArgs(val noteId: String = "\"\"") : NavArgs {
+>>>>>>> dev
     fun toBundle(): Bundle {
         val result = Bundle()
         result.putString("noteId", this.noteId)
@@ -24,7 +28,11 @@ data class NoteDetailViewArgs(val noteId: String) : NavArgs {
                     throw IllegalArgumentException("Argument \"noteId\" is marked as non-null but was passed a null value.")
                 }
             } else {
+<<<<<<< HEAD
                 throw IllegalArgumentException("Required argument \"noteId\" is missing and does not have an android:defaultValue")
+=======
+                __noteId = "\"\""
+>>>>>>> dev
             }
             return NoteDetailViewArgs(__noteId)
         }

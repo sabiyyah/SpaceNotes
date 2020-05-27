@@ -1348,10 +1348,14 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+<<<<<<< HEAD
 id action_noteDetailView2_to_noteListView2
 id action_noteDetailView_to_noteListView2
 id action_noteListView2_to_loginActivity
 id action_noteListView2_to_noteDetailView2
+=======
+id action_noteDetailView_to_noteListView2
+>>>>>>> dev
 id action_noteListView_to_loginActivity
 id action_noteListView_to_noteDetailView
 id action_text
@@ -1488,7 +1492,10 @@ id line3
 id linear
 id listMode
 id list_item
+<<<<<<< HEAD
 id loginActivity
+=======
+>>>>>>> dev
 id loginView
 id masked
 id message
@@ -1499,16 +1506,23 @@ id mtrl_internal_children_alpha_tag
 id multiply
 id nav_controller_view_tag
 id nav_graph
+<<<<<<< HEAD
 id nav_graph_demo
+=======
+>>>>>>> dev
 id nav_host_fragment_container
 id navigation_header_container
 id never
 id none
 id normal
 id noteDetailView
+<<<<<<< HEAD
 id noteDetailView2
 id noteListView
 id noteListView2
+=======
+id noteListView
+>>>>>>> dev
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -1696,7 +1710,10 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_note
+<<<<<<< HEAD
 layout activity_note_demo
+=======
+>>>>>>> dev
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1713,6 +1730,10 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_login
+<<<<<<< HEAD
+=======
+layout fragment_login_demo
+>>>>>>> dev
 layout fragment_note_detail
 layout fragment_note_list
 layout item_note
@@ -1732,7 +1753,10 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 navigation nav_graph
+<<<<<<< HEAD
 navigation nav_graph_demo
+=======
+>>>>>>> dev
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
