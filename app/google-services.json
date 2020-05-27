@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "client_id": "893997392815-gavkmsken65uhsqelmboja3c5vgha7id.apps.googleusercontent.com",
-          "client_type": 3
-        }
-=======
-=======
->>>>>>> dev
           "client_id": "893997392815-3in1ttb0p22ho0936hiekhs93qaagdoe.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -31,10 +23,6 @@
           }
         },
         {
-<<<<<<< HEAD
->>>>>>> dev
-=======
->>>>>>> dev
       ],
       "api_key": [
         {
